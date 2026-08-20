@@ -11,7 +11,6 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="enhancements.css">
-  <script src="config.js"></script>
   <script src="app.js" defer></script>
 </head>
 <body>
@@ -20,9 +19,9 @@
     <a class="brand" href="#top" aria-label="TrendSelect Startseite"><span class="brand-mark" aria-hidden="true">↗</span>TrendSelect</a>
     <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav"><span></span><span></span><span></span><span class="sr-only">Menü öffnen</span></button>
     <nav id="main-nav" aria-label="Hauptnavigation">
-      <a href="#trends">Trends</a><a href="#methodik">Methodik</a><a href="#newsletter">Newsletter</a>
+      <a href="#trends">Trends</a><a href="#partner">Empfehlungen</a><a href="#methodik">Methodik</a>
     </nav>
-    <a class="header-cta" href="#newsletter">Briefing erhalten <span aria-hidden="true">↗</span></a>
+    <a class="header-cta" href="#partner">Partner entdecken <span aria-hidden="true">↗</span></a>
   </header>
 
   <main id="top">
@@ -43,6 +42,8 @@
 
     <section class="ticker" aria-label="Trendthemen"><div>AI Natives <b>✦</b> Bio-Design <b>✦</b> New Work <b>✦</b> Circular Systems <b>✦</b> Spatial Computing <b>✦</b> AI Natives <b>✦</b> Bio-Design</div></section>
 
+    <aside class="sponsor-strip" aria-label="Werbefläche"><span>Anzeige · Presenting Partner</span><p><strong>Platz für eine starke Zukunftsmarke.</strong> Exklusive Sichtbarkeit direkt am Trend-Radar.</p><a href="mailto:WERBUNG@BEISPIEL.CH?subject=Presenting%20Partner%20TrendSelect">Mediadaten anfragen ↗</a></aside>
+
     <section class="trends-section" id="trends" aria-labelledby="trends-title">
       <div class="section-heading"><div><p class="eyebrow"><span></span> Trend Radar</p><h2 id="trends-title">Signale mit Substanz.</h2></div><p>Keine Hypes. Aktuelle Entwicklungen mit nachweisbarer Dynamik und langfristigem Potenzial. Relevanzwerte sind redaktionelle TrendSelect-Scores.</p></div>
       <div class="toolbar">
@@ -56,12 +57,12 @@
       <p class="empty-state" id="empty-state" hidden>Keine passenden Trends gefunden. Versuche einen anderen Suchbegriff.</p>
     </section>
 
-    <section class="monetization" aria-labelledby="partner-title">
+    <section class="monetization" id="partner" aria-labelledby="partner-title">
       <div class="section-heading compact"><div><p class="eyebrow"><span></span> Empfehlungen</p><h2 id="partner-title">Ausgewählt für Vorausdenker.</h2></div><p>Dezent kuratierte Partnerangebote. Kommt über einen gekennzeichneten Link ein Kauf zustande, kann TrendSelect eine Vergütung erhalten.</p></div>
       <div class="partner-grid">
         <article class="partner-card partner-featured"><span class="ad-label">Partnerfläche · Anzeige</span><div><p class="partner-kicker">Hauptpartner</p><h3>Ihre Marke im Kontext relevanter Zukunftsthemen.</h3><p>Eine hochwertige Präsenz für Organisationen, die Transformation glaubwürdig mitgestalten.</p></div><a href="mailto:WERBUNG@BEISPIEL.CH?subject=Partnerschaft%20mit%20TrendSelect">Partnerschaft anfragen <span>↗</span></a></article>
-        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">◫</div><h3>Tool der Woche</h3><p>Platz für ein sorgfältig geprüftes Produkt mit echtem Mehrwert für die Leserschaft.</p><a class="affiliate-link is-placeholder" href="#newsletter" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
-        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">▤</div><h3>Report &amp; Wissen</h3><p>Platz für Bücher, Reports oder Kurse passend zum aktuellen Trend-Radar.</p><a class="affiliate-link is-placeholder" href="#newsletter" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
+        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">◫</div><h3>Tool der Woche</h3><p>Platz für ein sorgfältig geprüftes Produkt mit echtem Mehrwert für die Leserschaft.</p><a class="affiliate-link is-placeholder" href="#partner" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
+        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">▤</div><h3>Report &amp; Wissen</h3><p>Platz für Bücher, Reports oder Kurse passend zum aktuellen Trend-Radar.</p><a class="affiliate-link is-placeholder" href="#partner" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
       </div>
     </section>
 
@@ -70,10 +71,6 @@
       <ol><li><b>01</b><div><h3>Beobachten</h3><p>Wir verfolgen technologische, kulturelle und wirtschaftliche Veränderungen.</p></div></li><li><b>02</b><div><h3>Validieren</h3><p>Wir prüfen Dynamik, Relevanz und belastbare Hinweise aus mehreren Quellen.</p></div></li><li><b>03</b><div><h3>Einordnen</h3><p>Wir übersetzen komplexe Entwicklungen in klare, nutzbare Perspektiven.</p></div></li></ol>
     </section>
 
-    <section class="newsletter" id="newsletter" aria-labelledby="newsletter-title">
-      <div><p class="eyebrow"><span></span> Wöchentliches Briefing</p><h2 id="newsletter-title">Die Zukunft in<br>fünf Minuten.</h2></div>
-      <div><p>Jeden Freitag: drei relevante Signale, ein Deep Dive und eine Frage, die weiterbringt.</p><form id="newsletter-form" novalidate><label class="sr-only" for="email">E-Mail-Adresse</label><div class="newsletter-row"><input id="email" name="email" type="email" autocomplete="email" placeholder="deine@email.ch" required><button type="submit">Anmelden <span>→</span></button></div><label class="consent"><input name="consent" type="checkbox" required> <span>Ich möchte den Newsletter erhalten und akzeptiere die <a href="datenschutz.html">Datenschutzerklärung</a>. Die Einwilligung kann jederzeit widerrufen werden.</span></label><input class="honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true"></form><p class="form-message" id="form-message" role="status"></p><small>Double-Opt-in empfohlen. Kein Spam. Jederzeit abbestellbar.</small></div>
-    </section>
   </main>
 
   <footer><a class="brand" href="#top"><span class="brand-mark">↗</span>TrendSelect</a><p>Orientierung für eine Welt im Wandel.</p><nav class="legal-nav" aria-label="Rechtliches"><a href="impressum.html">Impressum</a><a href="datenschutz.html">Datenschutz</a></nav><p>© <span id="year"></span> TrendSelect</p></footer>

@@ -26,9 +26,8 @@ Die GitHub Action `.github/workflows/update-trends.yml` läuft täglich um 05:23
 
 Der Generator kategorisiert, bewertet, kürzt und dedupliziert deutschsprachige Meldungen. Bei einem Feed-Ausfall bleiben die zuletzt gültigen Trends erhalten. Neue Daten werden nur bei inhaltlichen Änderungen nach `data/trends.json` geschrieben und dann automatisch committed. GitHub Pages liefert weiterhin ausschließlich statische Dateien aus.
 
-## Monetarisierung konfigurieren
+## Affiliate- und Werbemonetarisierung konfigurieren
 
-- Newsletter: In `config.js` nur `newsletterEndpoint` setzen. Empfohlen ist eine anonymisierte FormSubmit-Form-ID nach einmaliger Aktivierung, damit keine private Empfängeradresse im Quelltext steht.
 - Werbung und Affiliate: Platzhaltertexte, Kontaktadresse und `href` der gekennzeichneten Partnerlinks in `index.html` ersetzen. `rel="sponsored noopener"` beibehalten.
 - Rechtliches: Sämtliche eckigen Platzhalter in `impressum.html` und `datenschutz.html` durch echte Betreiber- und Dienstangaben ersetzen und vor geschäftlicher Nutzung rechtlich prüfen lassen.
 - Statistik: Der eingebundene Minimalzähler verwendet keine Cookies und ist in der Datenschutzvorlage offengelegt.
@@ -39,5 +38,3 @@ Der Generator kategorisiert, bewertet, kürzt und dedupliziert deutschsprachige 
 - `styles.css` – responsives Layout und Design
 - `app.js` – Filter, Suche, Merkliste, Detaildialog, mobiles Menü und Formular
 - `.nojekyll` – verhindert unerwünschte Jekyll-Verarbeitung auf GitHub Pages
-
-Hinweis: Solange `newsletterEndpoint` leer ist, werden keine E-Mail-Adressen übertragen oder gespeichert. Das Formular weist transparent auf den noch nicht aktivierten Endpunkt hin.
