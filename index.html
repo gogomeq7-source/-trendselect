@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="enhancements.css">
   <script src="app.js" defer></script>
 </head>
 <body>
@@ -42,10 +43,10 @@
     <section class="ticker" aria-label="Trendthemen"><div>AI Natives <b>✦</b> Bio-Design <b>✦</b> New Work <b>✦</b> Circular Systems <b>✦</b> Spatial Computing <b>✦</b> AI Natives <b>✦</b> Bio-Design</div></section>
 
     <section class="trends-section" id="trends" aria-labelledby="trends-title">
-      <div class="section-heading"><div><p class="eyebrow"><span></span> Trend Radar</p><h2 id="trends-title">Signale mit Substanz.</h2></div><p>Keine Hypes. Entwicklungen mit nachweisbarer Dynamik und langfristigem Potenzial.</p></div>
+      <div class="section-heading"><div><p class="eyebrow"><span></span> Trend Radar</p><h2 id="trends-title">Signale mit Substanz.</h2></div><p>Keine Hypes. Aktuelle Entwicklungen mit nachweisbarer Dynamik und langfristigem Potenzial. Relevanzwerte sind redaktionelle TrendSelect-Scores.</p></div>
       <div class="toolbar">
         <div class="filters" role="group" aria-label="Trends filtern">
-          <button class="filter active" data-filter="all" type="button">Alle</button><button class="filter" data-filter="Technologie" type="button">Technologie</button><button class="filter" data-filter="Business" type="button">Business</button><button class="filter" data-filter="Design" type="button">Design</button><button class="filter" data-filter="Lifestyle" type="button">Lifestyle</button>
+          <button class="filter active" data-filter="all" type="button">Alle</button><button class="filter" data-filter="Technologie" type="button">Technologie</button><button class="filter" data-filter="KI" type="button">KI</button><button class="filter" data-filter="Business" type="button">Business</button><button class="filter" data-filter="Gesellschaft" type="button">Gesellschaft</button><button class="filter" data-filter="Nachhaltigkeit" type="button">Nachhaltigkeit</button>
         </div>
         <label class="search"><span class="sr-only">Trends durchsuchen</span><input id="search" type="search" placeholder="Trends suchen …"><span aria-hidden="true">⌕</span></label>
       </div>
@@ -66,6 +67,6 @@
 
   <footer><a class="brand" href="#top"><span class="brand-mark">↗</span>TrendSelect</a><p>Orientierung für eine Welt im Wandel.</p><p>© <span id="year"></span> TrendSelect</p></footer>
 
-  <dialog id="trend-dialog"><button class="dialog-close" type="button" aria-label="Dialog schließen">×</button><p class="dialog-category"></p><h2></h2><p class="dialog-description"></p><div class="dialog-meta"></div><h3>Warum das wichtig ist</h3><p class="dialog-insight"></p></dialog>
+  <dialog id="trend-dialog"><button class="dialog-close" type="button" aria-label="Dialog schließen">×</button><p class="dialog-category"></p><h2></h2><p class="dialog-description"></p><div class="dialog-meta"></div><h3>Warum das wichtig ist</h3><p class="dialog-insight"></p><a class="dialog-source" target="_blank" rel="noopener noreferrer">Quelle öffnen <span aria-hidden="true">↗</span></a></dialog>
 </body>
 </html>
