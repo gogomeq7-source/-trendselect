@@ -38,3 +38,30 @@
 @media (max-width: 850px) {
   .data-status { text-align: left; }
 }
+
+.monetization { padding: 1rem clamp(1.2rem,7vw,7.5rem) 7rem; }
+.section-heading.compact h2 { font-size: clamp(2.4rem,4vw,4rem); }
+.partner-grid { display:grid; grid-template-columns:1.4fr 1fr 1fr; gap:1.2rem; margin-top:3rem; }
+.partner-card { background:#fff; min-height:300px; padding:1.5rem; display:flex; flex-direction:column; }
+.partner-featured { background:var(--ink); color:#fff; justify-content:space-between; }
+.partner-card h3 { font:700 1.35rem Manrope; line-height:1.15; }
+.partner-card p { color:var(--muted); }
+.partner-featured p { color:#b7c2bb; max-width:520px; }
+.partner-card a { align-self:flex-start; border-bottom:1px solid currentColor; font-weight:700; margin-top:auto; }
+.partner-card a span { margin-left:.5rem; }
+.ad-label { color:#79877e; font-size:.62rem; letter-spacing:.12em; text-transform:uppercase; }
+.partner-featured .ad-label,.partner-featured a { color:var(--lime); }
+.partner-kicker { font-size:.7rem; letter-spacing:.15em; text-transform:uppercase; }
+.partner-symbol { font-size:2.4rem; margin:2.5rem 0 1rem; }
+.is-placeholder { opacity:.6; }
+.newsletter form { border:0; display:block; margin-top:2rem; }
+.newsletter-row { border-bottom:2px solid var(--ink); display:flex; }
+.consent { align-items:flex-start; color:var(--muted); display:flex; font-size:.75rem; gap:.5rem; margin-top:1rem; }
+.consent input { flex:0 0 auto; margin-top:.2rem; }
+.consent a { text-decoration:underline; }
+.honeypot,.privacy-counter { height:1px!important; left:-9999px!important; opacity:0!important; overflow:hidden!important; position:absolute!important; width:1px!important; }
+.legal-nav { display:flex; gap:1rem; margin-left:auto; }
+.legal-nav a { color:var(--muted); font-size:.82rem; }
+footer>p:last-child { margin-left:0; }
+@media(max-width:850px){.partner-grid{grid-template-columns:1fr 1fr}.partner-featured{grid-column:1/-1}}
+@media(max-width:560px){.partner-grid{grid-template-columns:1fr}.legal-nav{margin-left:0}.newsletter-row{align-items:stretch}}
