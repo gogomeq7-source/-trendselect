@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "23 5 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_trends.py"
+      - ".github/workflows/update-trends.yml"
 
 permissions:
   contents: write
