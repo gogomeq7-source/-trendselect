@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TrendSelect</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f6f6f4;color:#111}
+header{padding:18px 5%;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0}
+main{max-width:1200px;margin:auto;padding:30px 5%}
+h1{font-size:42px;margin:0 0 10px}.muted{color:#666}
+input{width:100%;max-width:600px;padding:14px;border:1px solid #ccc;border-radius:999px;font-size:16px;margin:20px 0}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.card{background:#fff;border:1px solid #e6e6e6;border-radius:16px;overflow:hidden}
+.pic{aspect-ratio:1;background:#fff;display:grid;place-items:center}.pic img{max-width:100%;max-height:100%;object-fit:contain}
+.info{padding:14px}.title{font-weight:700;min-height:44px}.price{font-size:20px;font-weight:800;margin:12px 0}
+a.btn{display:block;background:#111;color:white;text-decoration:none;text-align:center;padding:12px;border-radius:10px}
+.small{font-size:12px;color:#777;margin-top:8px}footer{padding:30px 5%;font-size:12px;color:#666}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><strong>TRENDSELECT</strong></header>
+<main>
+<h1>Deals & Produkte</h1>
+<p class="muted">Automatisch aktualisierte Partnerangebote.</p>
+<input id="q" placeholder="Suchen …">
+<div id="grid" class="grid"></div>
+</main>
+<footer>Affiliate-Hinweis: Bei Käufen über Partnerlinks können wir eine Provision erhalten. Kauf, Zahlung, Versand, Garantie und Retouren erfolgen beim jeweiligen Händler.</footer>
+<script>
+let products=[];
+const grid=document.getElementById('grid'),q=document.getElementById('q');
+function money(p){return `${p.currency||'CHF'} ${Number(p.price||0).toLocaleString('de-CH',{minimumFractionDigits:2,maximumFractionDigits:2})}`}
+function draw(){
+ let s=q.value.toLowerCase();
+ let list=products.filter(p=>!s||[p.title,p.brand,p.category,p.merchant].join(' ').toLowerCase().includes(s));
+ grid.innerHTML=list.map(p=>`<div class="card"><div class="pic">${p.image?`<img loading="lazy" src="${p.image}">`:'🛍️'}</div><div class="info"><div class="small">${p.brand||p.merchant||''}</div><div class="title">${p.title||'Produkt'}</div><div class="price">${money(p)}</div><a class="btn" target="_blank" rel="sponsored nofollow noopener" href="${p.affiliate_url}">Beim Händler ansehen</a></div></div>`).join('');
+}
+q.oninput=draw;
+fetch('products.json?'+Date.now()).then(r=>r.json()).then(d=>{products=d;draw()});
+</script>
+</body></html>
