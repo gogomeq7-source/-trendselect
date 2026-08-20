@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="enhancements.css">
   <script src="app.js" defer></script>
+  <script src="products.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#trends">Zum Inhalt springen</a>
@@ -57,13 +58,17 @@
       <p class="empty-state" id="empty-state" hidden>Keine passenden Trends gefunden. Versuche einen anderen Suchbegriff.</p>
     </section>
 
-    <section class="monetization" id="partner" aria-labelledby="partner-title">
-      <div class="section-heading compact"><div><p class="eyebrow"><span></span> Empfehlungen</p><h2 id="partner-title">Ausgewählt für Vorausdenker.</h2></div><p>Dezent kuratierte Partnerangebote. Kommt über einen gekennzeichneten Link ein Kauf zustande, kann TrendSelect eine Vergütung erhalten.</p></div>
-      <div class="partner-grid">
-        <article class="partner-card partner-featured"><span class="ad-label">Partnerfläche · Anzeige</span><div><p class="partner-kicker">Hauptpartner</p><h3>Ihre Marke im Kontext relevanter Zukunftsthemen.</h3><p>Eine hochwertige Präsenz für Organisationen, die Transformation glaubwürdig mitgestalten.</p></div><a href="mailto:WERBUNG@BEISPIEL.CH?subject=Partnerschaft%20mit%20TrendSelect">Partnerschaft anfragen <span>↗</span></a></article>
-        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">◫</div><h3>Tool der Woche</h3><p>Platz für ein sorgfältig geprüftes Produkt mit echtem Mehrwert für die Leserschaft.</p><a class="affiliate-link is-placeholder" href="#partner" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
-        <article class="partner-card"><span class="ad-label">Affiliate-Empfehlung</span><div class="partner-symbol">▤</div><h3>Report &amp; Wissen</h3><p>Platz für Bücher, Reports oder Kurse passend zum aktuellen Trend-Radar.</p><a class="affiliate-link is-placeholder" href="#partner" rel="sponsored noopener">Partnerlink konfigurieren <span>↗</span></a></article>
+    <section class="products-section" id="partner" aria-labelledby="partner-title">
+      <div class="section-heading compact"><div><p class="eyebrow"><span></span> Produktempfehlungen</p><h2 id="partner-title">Werkzeuge für morgen.</h2></div><p>Echte, automatisch aktualisierte Angebote aus freigegebenen Partnerprogrammen. Bei einem Kauf über einen gekennzeichneten Link kann TrendSelect eine Vergütung erhalten.</p></div>
+      <div class="product-toolbar">
+        <div class="product-filters" id="product-filters" role="group" aria-label="Produkte nach Kategorie filtern"><button class="product-filter active" type="button" data-category="all">Alle Produkte</button></div>
+        <label class="search"><span class="sr-only">Produkte durchsuchen</span><input id="product-search" type="search" placeholder="Produkte suchen …"><span aria-hidden="true">⌕</span></label>
       </div>
+      <p class="product-status" id="product-status">Partnerkatalog wird vorbereitet.</p>
+      <div class="product-grid" id="product-grid" aria-live="polite"></div>
+      <div class="product-empty" id="product-empty"><span aria-hidden="true">◇</span><h3>Noch keine Partnerprodukte verbunden.</h3><p>Sobald ein freigegebenes Affiliate-Produktfeed hinterlegt ist, erscheinen hier ausschließlich echte Produkte mit aktuellem Preis und Partnerlink.</p></div>
+      <nav class="product-pagination" id="product-pagination" aria-label="Produktseiten" hidden><button type="button" data-page-action="previous">← Zurück</button><span id="product-page-status"></span><button type="button" data-page-action="next">Weiter →</button></nav>
+      <article class="partner-card partner-featured catalog-ad"><span class="ad-label">Partnerfläche · Anzeige</span><div><p class="partner-kicker">Kategorie-Partner</p><h3>Ihre Marke neben relevanten Produktempfehlungen.</h3><p>Exklusive, klar gekennzeichnete Präsenz ohne Pop-ups und Tracking-Wildwuchs.</p></div><a href="mailto:WERBUNG@BEISPIEL.CH?subject=Kategorie-Partnerschaft%20TrendSelect">Mediadaten anfragen <span>↗</span></a></article>
     </section>
 
     <section class="method" id="methodik" aria-labelledby="method-title">

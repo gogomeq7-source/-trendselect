@@ -1,0 +1,43 @@
+name: Affiliate-Produkte aktualisieren
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_products.py"
+      - ".github/workflows/update-products.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: product-catalogue
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Produktfeeds importieren
+        env:
+          AWIN_PRODUCT_FEED_URLS: ${{ secrets.AWIN_PRODUCT_FEED_URLS }}
+          PRODUCT_LIMIT: ${{ vars.PRODUCT_LIMIT || '5000' }}
+        run: python scripts/update_products.py
+      - name: Änderungen veröffentlichen
+        run: |
+          if git diff --quiet -- data/products.json; then
+            echo "Keine Produktänderungen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/products.json
+          git commit -m "Automatische Produktaktualisierung"
+          git push
