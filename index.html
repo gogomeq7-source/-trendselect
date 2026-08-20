@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="TrendSelect kuratiert relevante Trends aus Technologie, Business, Design und Lifestyle.">
+  <meta name="theme-color" content="#101b16">
+  <title>TrendSelect – Was morgen wichtig wird</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#trends">Zum Inhalt springen</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="TrendSelect Startseite"><span class="brand-mark" aria-hidden="true">↗</span>TrendSelect</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav"><span></span><span></span><span></span><span class="sr-only">Menü öffnen</span></button>
+    <nav id="main-nav" aria-label="Hauptnavigation">
+      <a href="#trends">Trends</a><a href="#methodik">Methodik</a><a href="#newsletter">Newsletter</a>
+    </nav>
+    <a class="header-cta" href="#newsletter">Briefing erhalten <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> Kuratiert. Klar. Relevant.</p>
+        <h1 id="hero-title">Entdecke, was<br><em>morgen</em> wichtig wird.</h1>
+        <p class="hero-lead">Wir filtern das Rauschen und zeigen dir die Entwicklungen, Ideen und Signale, die unsere Zukunft prägen.</p>
+        <div class="hero-actions"><a class="button primary" href="#trends">Trends entdecken <span>↓</span></a><a class="text-link" href="#methodik">So wählen wir aus <span>→</span></a></div>
+      </div>
+      <div class="hero-visual" aria-label="Visualisierung aktueller Trends">
+        <div class="orb orb-one"></div><div class="orb orb-two"></div>
+        <article class="signal-card featured"><span class="signal-index">01 / SIGNAL</span><span class="signal-icon">✦</span><h2>Regenerative<br>Technologie</h2><p>Systeme, die mehr zurückgeben, als sie verbrauchen.</p><span class="signal-score">+84% Relevanz</span></article>
+        <article class="signal-card mini"><span>02 / SHIFT</span><strong>Slow<br>Productivity</strong><i>↗</i></article>
+        <div class="pulse" aria-hidden="true"><span></span><span></span><span></span></div>
+      </div>
+    </section>
+
+    <section class="ticker" aria-label="Trendthemen"><div>AI Natives <b>✦</b> Bio-Design <b>✦</b> New Work <b>✦</b> Circular Systems <b>✦</b> Spatial Computing <b>✦</b> AI Natives <b>✦</b> Bio-Design</div></section>
+
+    <section class="trends-section" id="trends" aria-labelledby="trends-title">
+      <div class="section-heading"><div><p class="eyebrow"><span></span> Trend Radar</p><h2 id="trends-title">Signale mit Substanz.</h2></div><p>Keine Hypes. Entwicklungen mit nachweisbarer Dynamik und langfristigem Potenzial.</p></div>
+      <div class="toolbar">
+        <div class="filters" role="group" aria-label="Trends filtern">
+          <button class="filter active" data-filter="all" type="button">Alle</button><button class="filter" data-filter="Technologie" type="button">Technologie</button><button class="filter" data-filter="Business" type="button">Business</button><button class="filter" data-filter="Design" type="button">Design</button><button class="filter" data-filter="Lifestyle" type="button">Lifestyle</button>
+        </div>
+        <label class="search"><span class="sr-only">Trends durchsuchen</span><input id="search" type="search" placeholder="Trends suchen …"><span aria-hidden="true">⌕</span></label>
+      </div>
+      <div class="trend-grid" id="trend-grid" aria-live="polite"></div>
+      <p class="empty-state" id="empty-state" hidden>Keine passenden Trends gefunden. Versuche einen anderen Suchbegriff.</p>
+    </section>
+
+    <section class="method" id="methodik" aria-labelledby="method-title">
+      <div><p class="eyebrow light"><span></span> Unser Filter</p><h2 id="method-title">Weniger Lärm.<br><em>Mehr Signal.</em></h2></div>
+      <ol><li><b>01</b><div><h3>Beobachten</h3><p>Wir verfolgen technologische, kulturelle und wirtschaftliche Veränderungen.</p></div></li><li><b>02</b><div><h3>Validieren</h3><p>Wir prüfen Dynamik, Relevanz und belastbare Hinweise aus mehreren Quellen.</p></div></li><li><b>03</b><div><h3>Einordnen</h3><p>Wir übersetzen komplexe Entwicklungen in klare, nutzbare Perspektiven.</p></div></li></ol>
+    </section>
+
+    <section class="newsletter" id="newsletter" aria-labelledby="newsletter-title">
+      <div><p class="eyebrow"><span></span> Wöchentliches Briefing</p><h2 id="newsletter-title">Die Zukunft in<br>fünf Minuten.</h2></div>
+      <div><p>Jeden Freitag: drei relevante Signale, ein Deep Dive und eine Frage, die weiterbringt.</p><form id="newsletter-form" novalidate><label class="sr-only" for="email">E-Mail-Adresse</label><input id="email" name="email" type="email" autocomplete="email" placeholder="deine@email.ch" required><button type="submit">Anmelden <span>→</span></button></form><p class="form-message" id="form-message" role="status"></p><small>Kein Spam. Jederzeit abbestellbar.</small></div>
+    </section>
+  </main>
+
+  <footer><a class="brand" href="#top"><span class="brand-mark">↗</span>TrendSelect</a><p>Orientierung für eine Welt im Wandel.</p><p>© <span id="year"></span> TrendSelect</p></footer>
+
+  <dialog id="trend-dialog"><button class="dialog-close" type="button" aria-label="Dialog schließen">×</button><p class="dialog-category"></p><h2></h2><p class="dialog-description"></p><div class="dialog-meta"></div><h3>Warum das wichtig ist</h3><p class="dialog-insight"></p></dialog>
+</body>
+</html>
