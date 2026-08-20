@@ -20,6 +20,12 @@ Danach `http://localhost:8000` öffnen.
 
 Die Seite benötigt keine Umgebungsvariablen und keine externen Build-Dienste.
 
+## Automatische Trend-Aktualisierung
+
+Die GitHub Action `.github/workflows/update-trends.yml` läuft täglich um 05:23 UTC und kann zusätzlich manuell gestartet werden. `scripts/update_trends.py` liest ausschließlich frei zugängliche RSS-/Atom-Feeds von heise online, tagesschau.de und dem Statistischen Bundesamt. Es benötigt nur die Python-Standardbibliothek und den automatisch vorhandenen `GITHUB_TOKEN`.
+
+Der Generator kategorisiert, bewertet, kürzt und dedupliziert deutschsprachige Meldungen. Bei einem Feed-Ausfall bleiben die zuletzt gültigen Trends erhalten. Neue Daten werden nur bei inhaltlichen Änderungen nach `data/trends.json` geschrieben und dann automatisch committed. GitHub Pages liefert weiterhin ausschließlich statische Dateien aus.
+
 ## Dateien
 
 - `index.html` – semantische Seitenstruktur

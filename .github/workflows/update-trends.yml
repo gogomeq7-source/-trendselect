@@ -1,0 +1,38 @@
+name: Trend-Radar aktualisieren
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-radar-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Trenddaten aus öffentlichen Feeds erzeugen
+        run: python3 scripts/update_trends.py
+
+      - name: Änderungen veröffentlichen
+        run: |
+          if git diff --quiet -- data/trends.json; then
+            echo "Keine neuen Trends."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/trends.json
+          git commit -m "chore: Trend-Radar automatisch aktualisieren"
+          git push origin HEAD:main

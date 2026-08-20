@@ -26,3 +26,15 @@
 .dialog-source:hover { color: #598c29; }
 .dialog-meta { flex-wrap: wrap; }
 .dialog-meta span { min-width: 95px; }
+
+.data-status {
+  color: var(--muted);
+  font-size: .72rem;
+  letter-spacing: .04em;
+  margin: -1rem 0 1.2rem;
+  text-align: right;
+}
+
+@media (max-width: 850px) {
+  .data-status { text-align: left; }
+}
