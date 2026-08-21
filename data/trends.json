@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:23:42+00:00",
+  "updatedAt": "2026-08-21T07:56:11+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,46 +17,46 @@
       "sourceUrl": "https://www.heise.de/blog/KI-Warum-kollaborative-Modellierung-wichtiger-wird-als-Programmieren-11380951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-080cf1177c",
+      "id": "auto-42f0c74980",
       "category": "KI",
-      "title": "KI-Aufsicht: Niedersachsen warnt vor Entmachtung der Datenschutzbehörden",
+      "title": "Zehn Jahre Haft nach Bankraub: Täter hat ChatGPT vorab um Tipps gebeten",
       "symbol": "✦",
       "relevance": 84,
-      "date": "20.08.2026",
-      "description": "Der niedersächsische Datenschutzbeauftragte beklagt die beschlossene Zentralisierung der KI-Kontrolle bei der Bundesnetzagentur und warnt vor US-Abhängigkeiten.",
+      "date": "21.08.2026",
+      "description": "Nach einem Bankraub in den USA ist der Täter zu einer langen Haftstrafe verurteilt worden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-Aufsicht-Niedersachsen-warnt-vor-Entmachtung-der-Datenschutzbehoerden-11421190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Zehn-Jahre-Haft-nach-Bankraub-Taeter-hat-ChatGPT-vorab-um-Tipps-gebeten-11421306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-9483c6e4d0",
+      "id": "auto-b69852d2c5",
       "category": "Technologie",
-      "title": "Argentinien: KI-gestützte Überwachung hat unter Präsident Milei zugenommen",
+      "title": "heise+ | Billig-Duell: Mini-PC aus China vs. Selbstbau-Rechner",
       "symbol": "◇",
       "relevance": 84,
-      "date": "20.08.2026",
-      "description": "Laut Amnesty International hat Argentiniens Regierung in den vergangenen zwei Jahren den Einsatz von KI-gestützter Überwachungstechnologie deutlich ausgeweitet.",
+      "date": "21.08.2026",
+      "description": "Knappe Speicherchips treiben die PC-Preise nach oben.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Argentinien-KI-gestuetzte-Ueberwachung-hat-unter-Praesident-Milei-zugenommen-11421270.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/tests/Billig-Duell-Mini-PC-aus-China-vs-Selbstbau-Rechner-11329175.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-9b8f2df78d",
+      "id": "auto-420d90e48a",
       "category": "Technologie",
-      "title": "Apple: Geteilte Fotoalben belegen künftig iCloud-Speicherplatz",
+      "title": "Cyberangriff in Berlin: Behörden weiterhin offline",
       "symbol": "◇",
       "relevance": 84,
-      "date": "20.08.2026",
-      "description": "In iOS 27 erhöht Apple die Auflösung geteilter Fotoalben.",
+      "date": "21.08.2026",
+      "description": "Zwei Senatsverwaltungen sind nach einem Cyberangriff vom Landesnetz isoliert.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Apple-Geteilte-Fotoalben-belegen-kuenftig-iCloud-Speicherplatz-11420972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Berliner-Verwaltungen-nach-Cyberangriff-weiter-vom-Netz-getrennt-11421320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-d6ecb00ff7",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_297_51.html"
     },
     {
-      "id": "auto-4595e30727",
+      "id": "auto-4b3992dc5a",
       "category": "Business",
-      "title": "DGB-Ausbildungsreport: Jeder zweite Azubi ist psychisch belastet",
+      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
       "symbol": "↗",
-      "relevance": 86,
-      "date": "20.08.2026",
-      "description": "Finanzielle Sorgen, angespannter Wohnungsmarkt und Druck im Berufsleben: Immer mehr Auszubildenden macht das zu schaffen, so der aktuelle Ausbildungsreport des DGB.",
+      "relevance": 89,
+      "date": "21.08.2026",
+      "description": "Große deutsche Konzerne wie Audi und Siemens sowie Arbeitgeber der Metall- und Elektroindustrie fordern die Regierung auf, Reformen \"schleunigst\" umzusetzen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/dgb-ausbildungsreport-106.html"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html"
     },
     {
       "id": "auto-5e470eba45",
@@ -143,74 +143,74 @@
       "sourceUrl": "https://www.heise.de/news/Jetzt-erhaeltlich-Das-neue-c-t-Sonderheft-Technik-fuer-den-Ernstfall-11373693.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-5ba220317c",
+      "id": "auto-756dcef0bd",
       "category": "Business",
-      "title": "Deutsche Exporte im 1. Halbjahr 2026: +3,9 % zum Vorjahreszeitraum",
+      "title": "Marktbericht: Anleger finden keine Kaufgründe",
       "symbol": "↗",
-      "relevance": 85,
-      "date": "20.08.2026",
-      "description": "Mit einem Wert von 817,8 Milliarden Euro sind die deutschen Exporte im 1.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 86,
+      "date": "21.08.2026",
+      "description": "Nach vier Tagen mit Kursverlusten dürfte der DAX wenig dynamisch in den letzten Handelstag der Woche starten.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_296_51.html"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html"
     },
     {
-      "id": "auto-50735283f8",
+      "id": "auto-4595e30727",
       "category": "Business",
-      "title": "Auftragsbestand im Verarbeitenden Gewerbe im Juni 2026: +0,8 % zum Vormonat",
+      "title": "DGB-Ausbildungsreport: Jeder zweite Azubi ist psychisch belastet",
       "symbol": "↗",
-      "relevance": 85,
-      "date": "19.08.2026",
-      "description": "Der reale (preisbereinigte) Auftragsbestand im Verarbeitenden Gewerbe ist nach vorläufigen Ergebnissen des Statistischen Bundesamtes (Destatis) im Juni 2026 gegenüber Mai …",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 86,
+      "date": "20.08.2026",
+      "description": "Finanzielle Sorgen, angespannter Wohnungsmarkt und Druck im Berufsleben: Immer mehr Auszubildenden macht das zu schaffen, so der aktuelle Ausbildungsreport des DGB.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_294_421.html"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/dgb-ausbildungsreport-106.html"
     },
     {
-      "id": "auto-d9e3802729",
-      "category": "KI",
-      "title": "Fotolack statt Metallmaske: LG optimiert die Fertigung großer OLEDs",
-      "symbol": "✦",
+      "id": "auto-561141756a",
+      "category": "Technologie",
+      "title": "Freitag: KI-Überwachung in Argentinien, Chinas wachsender Druck auf Taiwan",
+      "symbol": "◇",
       "relevance": 84,
-      "date": "20.08.2026",
-      "description": "LG Display will seine OLED-Panels statt mit Metallmasten per Photolithografie strukturieren und so hellere und sparsamere OLEDs produzieren.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Fotolack-statt-Metallmaske-LG-optimiert-die-Fertigung-grosser-OLEDs-11421126.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-55898e7d3d",
-      "category": "KI",
-      "title": "PayPal-Alternative: dm führt Wero im Onlineshop ein",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "20.08.2026",
-      "description": "PayPal-Alternative: dm führt Wero im Onlineshop ein zeigt neue Dynamik im Bereich KI.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/PayPal-Alternative-dm-fuehrt-Wero-im-Onlineshop-ein-11421070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-f4e83ba7a6",
-      "category": "Gesellschaft",
-      "title": "Smart Glasses: Warum ein Verbot zu kurz greift",
-      "symbol": "◎",
-      "relevance": 84,
-      "date": "20.08.2026",
-      "description": "Smart Glasses sorgen derzeit für gesellschaftlichen Zündstoff.",
+      "date": "21.08.2026",
+      "description": "Milei-Regierung mit mehr Überwachung + Rohstoff-Importe Taiwans beschränkt + Australiens Internet-Abgabe + Plagiatsvorwürfe gegen OpenAI + Datenschutz-Podcast.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/meinung/Smart-Glasses-Warum-ein-Verbot-zu-kurz-greift-11419075.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Freitag-KI-Ueberwachung-in-Argentinien-Chinas-wachsender-Druck-auf-Taiwan-11421302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-9483c6e4d0",
+      "category": "Technologie",
+      "title": "Argentinien: KI-gestützte Überwachung hat unter Präsident Milei zugenommen",
+      "symbol": "◇",
+      "relevance": 84,
+      "date": "20.08.2026",
+      "description": "Laut Amnesty International hat Argentiniens Regierung in den vergangenen zwei Jahren den Einsatz von KI-gestützter Überwachungstechnologie deutlich ausgeweitet.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Argentinien-KI-gestuetzte-Ueberwachung-hat-unter-Praesident-Milei-zugenommen-11421270.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-080cf1177c",
+      "category": "KI",
+      "title": "KI-Aufsicht: Niedersachsen warnt vor Entmachtung der Datenschutzbehörden",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "20.08.2026",
+      "description": "Der niedersächsische Datenschutzbeauftragte beklagt die beschlossene Zentralisierung der KI-Kontrolle bei der Bundesnetzagentur und warnt vor US-Abhängigkeiten.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/KI-Aufsicht-Niedersachsen-warnt-vor-Entmachtung-der-Datenschutzbehoerden-11421190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
