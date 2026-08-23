@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-22T06:02:37+00:00",
+  "updatedAt": "2026-08-23T07:20:55+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
+    {
+      "id": "auto-3aa5f22558",
+      "category": "KI",
+      "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "22.08.2026",
+      "description": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
     {
       "id": "auto-c6b3b873c8",
       "category": "KI",
@@ -15,20 +29,6 @@
       "horizon": "Jetzt",
       "source": "heise online",
       "sourceUrl": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11404582.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-80af7ae316",
-      "category": "KI",
-      "title": "heise-Angebot: M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwick",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "21.08.2026",
-      "description": "M365 Copilot ist mehr als ein KI-Assistent in Office.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11420032.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-78b8d36b03",
@@ -45,18 +45,18 @@
       "sourceUrl": "https://www.heise.de/news/VW-ID-Modelle-Das-Smartphone-wird-zum-digitalen-Autoschluessel-11422263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-c0e0ef04ea",
+      "id": "auto-650ab86f47",
       "category": "Technologie",
-      "title": "Bahn sichert sich ICE-1-Updates bis Ende 2038",
+      "title": "heise-Angebot: NIS2 und KRITIS: Wie der Mittelstand Cyberresilienz aufbaut",
       "symbol": "◇",
       "relevance": 84,
-      "date": "21.08.2026",
-      "description": "Die Züge der Baureihe 401, besser bekannt als ICE 1, sollen noch bis 2040 fahren.",
+      "date": "22.08.2026",
+      "description": "Cyberangriffe, Ausfälle, NIS2: Der IT-Sicherheitstag Dortmund zeigt am 16.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Wartungsvertrag-bis-2038-Deutsche-Bahn-bestellt-Softwareupdates-fuer-den-ICE-1-11421773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/NIS2-und-KRITIS-Wie-der-Mittelstand-Cyberresilienz-aufbaut-11418532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-d6ecb00ff7",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_297_51.html"
     },
     {
-      "id": "auto-4b3992dc5a",
+      "id": "auto-4c06faf275",
       "category": "Business",
-      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
+      "title": "EU-Finanzminister fordern Übergewinnsteuer für Mineralölkonzerne",
       "symbol": "↗",
-      "relevance": 89,
-      "date": "21.08.2026",
-      "description": "Große deutsche Konzerne wie Audi und Siemens sowie Arbeitgeber der Metall- und Elektroindustrie fordern die Regierung auf, Reformen \"schleunigst\" umzusetzen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "22.08.2026",
+      "description": "Spritkosten explodieren, während Ölkonzerne höhere Gewinne machen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/EU-Finanzminister-fordern-Uebergewinnsteuer-fuer-Mineraloelkonzerne-11422787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-5e470eba45",
@@ -171,6 +171,20 @@
       "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html"
     },
     {
+      "id": "auto-c0e0ef04ea",
+      "category": "Technologie",
+      "title": "Bahn sichert sich ICE-1-Updates bis Ende 2038",
+      "symbol": "◇",
+      "relevance": 84,
+      "date": "21.08.2026",
+      "description": "Die Züge der Baureihe 401, besser bekannt als ICE 1, sollen noch bis 2040 fahren.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Wartungsvertrag-bis-2038-Deutsche-Bahn-bestellt-Softwareupdates-fuer-den-ICE-1-11421773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
       "id": "auto-0be75101be",
       "category": "Technologie",
       "title": "Justizcloud: Erste Bundesländer am Justiznetz angeschlossen",
@@ -197,20 +211,6 @@
       "horizon": "1–3 Jahre",
       "source": "heise online",
       "sourceUrl": "https://www.heise.de/hintergrund/Interview-Doctolib-Gesundheitsdaten-und-Forschung-per-Opt-out-11421496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-66649995e2",
-      "category": "Technologie",
-      "title": "China testet Robo-Verkehrspolizisten im Straßenverkehr",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "21.08.2026",
-      "description": "China testet Roboter, die den Verkehr regeln, Verstöße erkennen und Passanten Auskünfte geben.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/China-testet-Robo-Verkehrspolizisten-im-Strassenverkehr-11421751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
