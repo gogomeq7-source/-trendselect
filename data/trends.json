@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:27:29+00:00",
+  "updatedAt": "2026-08-29T05:30:15+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -101,18 +101,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_35_p002.html"
     },
     {
-      "id": "auto-bb36927ab1",
+      "id": "auto-3d658b81eb",
       "category": "Gesellschaft",
-      "title": "Nach Tod von Harald V.: Haakon VIII. ist neuer König von Norwegen",
+      "title": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
       "symbol": "◎",
       "relevance": 83,
       "date": "28.08.2026",
-      "description": "Der bisherige norwegische Kronprinz Haakon ist neuer König seines Landes.",
+      "description": "Nach der Sturzflut sind zahlreiche Journalisten nach Nepal gereist.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/europa/norwegen-harald-haakon-koenig-100.html"
+      "sourceUrl": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html"
     },
     {
       "id": "auto-32bdbdc798",
