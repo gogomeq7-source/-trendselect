@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:30:15+00:00",
+  "updatedAt": "2026-08-30T05:30:20+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -31,46 +31,46 @@
       "sourceUrl": "https://www.heise.de/hintergrund/Gamescom-dev-Wie-KI-Agenten-die-Zukunft-der-Spieleentwicklung-beeinflussen-11432506.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-c1ace0e0b8",
+      "id": "auto-5a938f4f96",
       "category": "Technologie",
-      "title": "Nvidia DLSS 5: Modder machen KI-Gesichter in allerlei Spielen lauffähig",
+      "title": "Top 10: Speicher für Balkonkraftwerk im Test – viele funktionieren ohne Cloud",
       "symbol": "◇",
       "relevance": 84,
-      "date": "28.08.2026",
-      "description": "Nvidia hat DLSS 5 noch nicht einmal veröffentlicht, da probieren es Spieler schon in „Cyberpunk 2077“ und vielen anderen Titeln aus.",
+      "date": "29.08.2026",
+      "description": "Wir zeigen die zehn besten Modelle aus zahlreichen Einzeltests.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Nvidia-DLSS-5-Modder-machen-KI-Gesichter-in-allerlei-Spielen-lauffaehig-11433874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-viele-funktionieren-ohne-cloud/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-f67801d309",
+      "id": "auto-a5f815db58",
       "category": "Technologie",
-      "title": "Wie OpenAI die Cybersecurity mit fiesen Tricks vor den eigenen Karren spannt",
+      "title": "Für 440 Euro: Dieser Roboter ist eine Ente",
       "symbol": "◇",
       "relevance": 84,
-      "date": "28.08.2026",
-      "description": "OpenAIs Cybersecurity-Aufruf ist ein manipulativer Trick.",
+      "date": "29.08.2026",
+      "description": "Der französische Roboterhersteller Pollen Robotics hat eine elektronische Ente für 440 Euro entwickelt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/meinung/Wie-OpenAI-die-Cybersecurity-mit-fiesen-Tricks-vor-den-eigenen-Karren-spannt-11433488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Microduck-Der-Entenroboter-aus-Frankreich-11434210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-a10fcb7e4e",
+      "id": "auto-229c6e2bc6",
       "category": "Business",
-      "title": "Wie Unternehmen ihre Mitarbeiter vor Hitze am Arbeitsplatz schützen",
+      "title": "Wie resilient ist Deutschland? Kritische Infrastrukturen im Belastungstest",
       "symbol": "↗",
-      "relevance": 89,
-      "date": "28.08.2026",
-      "description": "Hitze ist ein Wirtschaftsfaktor - auch weil die Produktivität sinkt, wenn die Temperaturen über das erträgliche Maß steigen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "29.08.2026",
+      "description": "Geopolitische Krisen, KI-Wandel und Klimarisiken fordern Staat, Finanzwesen und Kreislaufwirtschaft.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/hitzeschutz-bei-der-arbeit-100.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Wie-resilient-ist-Deutschland-Kritische-Infrastrukturen-im-Belastungstest-11434459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-5dc23c791e",
@@ -143,32 +143,18 @@
       "sourceUrl": "https://www.heise.de/news/Ausfallsichere-Handynetze-Bundesregierung-lehnt-starre-Notstrom-Vorgaben-ab-11434156.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-84e2612444",
+      "id": "auto-2242099181",
       "category": "Business",
-      "title": "Marktbericht: Trendwende in der Chemieindustrie?",
+      "title": "Festgesetzte Erbschaft- und Schenkungsteuer erreicht 2025 mit 21,4 Milliarden Euro neuen H",
       "symbol": "↗",
-      "relevance": 86,
-      "date": "28.08.2026",
-      "description": "Die Chemiebranche zählt neben Autobranche und Maschinenbau zu Deutschlands wichtigsten Industrien.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 85,
+      "date": "26.08.2026",
+      "description": "Im Jahr 2025 haben die Finanzverwaltungen in Deutschland Erbschaft- und Schenkungsteuer in Höhe von 21,4 Milliarden Euro festgesetzt.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/boerse/chemiebranche-ifo-bayer-basf-dax-100.html"
-    },
-    {
-      "id": "auto-b055f8ce08",
-      "category": "Business",
-      "title": "Amerikaner besorgt wegen wirtschaftlicher Folgen des Iran-Kriegs",
-      "symbol": "↗",
-      "relevance": 86,
-      "date": "28.08.2026",
-      "description": "Was als kurzer Feldzug geplant war, entwickelt sich zum Desaster für US-Präsident Trump.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-folgen-usa-100.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html"
     },
     {
       "id": "auto-3e9a2adb5d",
@@ -185,32 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_303_811.html"
     },
     {
-      "id": "auto-cff2a3d170",
+      "id": "auto-f8106c7a13",
+      "category": "Business",
+      "title": "Deutsches Staatsdefizit erhöht sich im 1. Halbjahr 2026 auf 71,3 Milliarden Euro",
+      "symbol": "↗",
+      "relevance": 85,
+      "date": "25.08.2026",
+      "description": "Das Finanzierungsdefizit des Staates betrug im 1.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_305_813.html"
+    },
+    {
+      "id": "auto-c675984365",
       "category": "KI",
-      "title": "Massiver Umbau gekippt: Meta wollte „KI-nativ“ werden – und scheiterte",
+      "title": "KI rekonstruiert erstes Bundesliga-Tor von 1963",
       "symbol": "✦",
       "relevance": 84,
-      "date": "28.08.2026",
-      "description": "Metas Entlassungsrunde im Mai sollte laut Reuters-Bericht eigentlich Teil einer deutlich massiveren Umstrukturierung werden, die Angestellte durch KI ersetzt.",
+      "date": "29.08.2026",
+      "description": "Bilder gibt es keine, weil der Kameramann gepennt hat: KI-Experten haben nun das erste Tor der Bundesligageschichte von Dortmunds Timo Konietzka rekonstruiert.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Massiver-Umbau-gekippt-Meta-wollte-KI-nativ-werden-und-scheiterte-11434074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/KI-rekonstruiert-erstes-Bundesliga-Tor-von-1963-11434176.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-1a55064c8a",
+      "id": "auto-c1ace0e0b8",
       "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schütze",
+      "title": "Nvidia DLSS 5: Modder machen KI-Gesichter in allerlei Spielen lauffähig",
       "symbol": "◇",
       "relevance": 84,
       "date": "28.08.2026",
-      "description": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
+      "description": "Nvidia hat DLSS 5 noch nicht einmal veröffentlicht, da probieren es Spieler schon in „Cyberpunk 2077“ und vielen anderen Titeln aus.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11415602.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Nvidia-DLSS-5-Modder-machen-KI-Gesichter-in-allerlei-Spielen-lauffaehig-11433874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
