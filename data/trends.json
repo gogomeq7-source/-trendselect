@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:33:00+00:00",
+  "updatedAt": "2026-09-13T05:32:48+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -31,6 +31,20 @@
       "sourceUrl": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-in-der-Popkultur-zwischen-Vision-und-Wunschdenken-11448994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
+      "id": "auto-04230c5566",
+      "category": "Technologie",
+      "title": "Fraunhofer-Studie: KI-Robotik ist umfassender als Humanoide",
+      "symbol": "◇",
+      "relevance": 87,
+      "date": "12.09.2026",
+      "description": "KI-basierte Robotik wird laut Fraunhofer zur Wachstumsbranche.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Fraunhofer-Studie-KI-Robotik-ist-umfassender-als-Humanoide-11451427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
       "id": "auto-bf9a7a4c7f",
       "category": "Technologie",
       "title": "Microsoft-Alternativen: Open-Source-Software aus Europa | c’t uplink",
@@ -45,32 +59,18 @@
       "sourceUrl": "https://www.heise.de/news/Microsoft-Alternativen-Open-Source-Software-aus-Europa-c-t-uplink-11449625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-aeec6137b2",
-      "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
-      "symbol": "◇",
-      "relevance": 87,
-      "date": "11.09.2026",
-      "description": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11426055.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-a71d4cebee",
+      "id": "auto-5167250edc",
       "category": "Business",
-      "title": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
+      "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
       "symbol": "↗",
       "relevance": 86,
-      "date": "11.09.2026",
-      "description": "Geschäfte, Restaurants und Dienstleister sollen nach Plänen von Finanzminister Klingbeil künftig neben Bargeld auch mindestens eine digitale Bezahlmöglichkeit anbieten müssen.",
+      "date": "12.09.2026",
+      "description": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html"
     },
     {
       "id": "auto-58f4491efb",
@@ -143,18 +143,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_320_611.html"
     },
     {
-      "id": "auto-dfc314f36c",
+      "id": "auto-aeec6137b2",
       "category": "Technologie",
-      "title": "Freitag: Eutelsat-Expansion gegen Starlink, aber Großbritannien setzt auf SpaceX",
+      "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
       "symbol": "◇",
       "relevance": 87,
       "date": "11.09.2026",
-      "description": "Mehr Internet-Satelliten für Eutelsat + SpaceX-Satelliten für Briten + Gemini-KI als Windows-App + Analyse neuer iPhones + Aufrüstung bei Chinas Chipherstellern.",
+      "description": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Freitag-Eutelsat-Expansion-gegen-Starlink-aber-Grossbritannien-setzt-auf-SpaceX-11449750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11426055.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-8fc9cec037",
@@ -171,46 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_325_52411.html"
     },
     {
-      "id": "auto-5f7584fd94",
+      "id": "auto-04858239c7",
       "category": "KI",
-      "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
+      "title": "„Sicherheitsbedenken“: OpenAI verschiebt Börsengang",
       "symbol": "✦",
       "relevance": 84,
-      "date": "11.09.2026",
-      "description": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet.",
+      "date": "12.09.2026",
+      "description": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen und plant einen großen Börsengang.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Sam-Altman-Boersengang-von-OpenAI-verschoben-11451477.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-e701deb3ba",
+      "id": "auto-11aacd1c12",
       "category": "Technologie",
-      "title": "InterDigital verklagt Disney auf 101,7 Millionen Euro Schadensersatz",
+      "title": "Top 10: Mähroboter für kleine Flächen im Test – kabellos, kompakt, ab 475 Euro",
       "symbol": "◇",
       "relevance": 84,
-      "date": "11.09.2026",
-      "description": "InterDigital fordert von Disney 101,7 Millionen Euro Schadensersatz.",
+      "date": "12.09.2026",
+      "description": "Zehn Mähroboter ohne Begrenzungskabel für kleine Gärten bis 500 m² im Test: Von günstiger Kamera- und RTK-Navigation bis LiDAR.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Patentstreit-InterDigital-fordert-101-7-Millionen-Euro-von-Disney-11450643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-fuer-kleine-flaechen-im-test-kabellos-kompakt-ab-475-euro/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-9a91d884f1",
-      "category": "Nachhaltigkeit",
-      "title": "Portasplit-Sicherheitslücke: Midea verteilt Updates an Klimageräte",
-      "symbol": "↻",
+      "id": "auto-353a303de2",
+      "category": "Business",
+      "title": "VW stimmt Gesprächen mit Gewerkschaft über Konzernumbau zu",
+      "symbol": "↗",
       "relevance": 84,
-      "date": "11.09.2026",
-      "description": "Dass jeder die Portasplit von Midea per Bluetooth fernsteuern konnte, war nicht im Sinne der Entwickler – sie bessern nun nach.",
+      "date": "12.09.2026",
+      "description": "Volkswagen steht vor einem tiefgreifenden Umbau, viele Fragen sind offen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
+      "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Portasplit-Sicherheitsluecke-Midea-verteilt-Updates-an-Klimageraete-11449892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/VW-stimmt-Gespraechen-mit-Gewerkschaft-ueber-Konzernumbau-zu-11451295.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
