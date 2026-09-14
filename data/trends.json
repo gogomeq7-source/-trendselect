@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-09-13T05:32:48+00:00",
+  "updatedAt": "2026-09-14T05:33:48+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
-    {
-      "id": "auto-301c923dad",
-      "category": "KI",
-      "title": "heise-Angebot: KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfak",
-      "symbol": "✦",
-      "relevance": 96,
-      "date": "11.09.2026",
-      "description": "Künstliche Intelligenz verändert die IT-Sicherheit und schafft neue Herausforderungen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Beschleunigung",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-in-der-Cybersecurity-Sicherheit-trotz-Coding-Agenten-LLMs-und-Deepfakes-11447227.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
     {
       "id": "auto-c7c6b11479",
       "category": "KI",
@@ -29,6 +15,20 @@
       "horizon": "Jetzt",
       "source": "heise online",
       "sourceUrl": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-in-der-Popkultur-zwischen-Vision-und-Wunschdenken-11448994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-551894ff4f",
+      "category": "KI",
+      "title": "Jugendschutz im Netz: Kalifornien erlässt strenge Regeln für KI und Social Media",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "13.09.2026",
+      "description": "Gouverneur Newsom hat ein Gesetzespaket zur Regulierung von Tech-Konzernen unterzeichnet, das Suchtfaktoren bremsen und KI-Anbieter in die Pflicht nehmen soll.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Jugendschutz-im-Netz-Kalifornien-erlaesst-strenge-Regeln-fuer-KI-und-Social-Media-11451599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-04230c5566",
@@ -129,18 +129,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_317_43312.html"
     },
     {
-      "id": "auto-46e3de61d6",
+      "id": "auto-ac4fb85164",
       "category": "Nachhaltigkeit",
-      "title": "Inflationsrate im August 2026 bei +2,9 %",
+      "title": "Studie: Flexible Stromnutzung könnte Haushalten 1,65 Milliarden Euro sparen",
       "symbol": "↻",
-      "relevance": 85,
-      "date": "10.09.2026",
-      "description": "Die Inflationsrate in Deutschland – gemessen als Veränderung des Verbraucherpreisindex (VPI) zum Vorjahresmonat – lag im August 2026 bei +2,9 %.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "13.09.2026",
+      "description": "Nicht weniger Strom verbrauchen, sondern zur richtigen Zeit: Laut einer Modellrechnung könnten Haushalte so Milliarden sparen und das Energiesystem entlasten.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_320_611.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Studie-Flexible-Stromnutzung-koennte-Haushalte-1-65-Milliarden-Euro-sparen-11451583.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-aeec6137b2",
@@ -171,46 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_325_52411.html"
     },
     {
-      "id": "auto-04858239c7",
-      "category": "KI",
-      "title": "„Sicherheitsbedenken“: OpenAI verschiebt Börsengang",
-      "symbol": "✦",
+      "id": "auto-46e3de61d6",
+      "category": "Nachhaltigkeit",
+      "title": "Inflationsrate im August 2026 bei +2,9 %",
+      "symbol": "↻",
+      "relevance": 85,
+      "date": "10.09.2026",
+      "description": "Die Inflationsrate in Deutschland – gemessen als Veränderung des Verbraucherpreisindex (VPI) zum Vorjahresmonat – lag im August 2026 bei +2,9 %.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_320_611.html"
+    },
+    {
+      "id": "auto-bc700ef965",
+      "category": "Business",
+      "title": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
+      "symbol": "↗",
       "relevance": 84,
-      "date": "12.09.2026",
-      "description": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen und plant einen großen Börsengang.",
+      "date": "14.09.2026",
+      "description": "Speichern und verdienen: Rabot Energy vermarktet seinen Batteriespeicher an Mieter ohne Balkonkraftwerk.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Sam-Altman-Boersengang-von-OpenAI-verschoben-11451477.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-11aacd1c12",
+      "id": "auto-694ec184b3",
       "category": "Technologie",
-      "title": "Top 10: Mähroboter für kleine Flächen im Test – kabellos, kompakt, ab 475 Euro",
+      "title": "iCloud-Verschlüsselung: US-Politiker fordern Ende der britischen Geheimhaltung",
       "symbol": "◇",
       "relevance": 84,
-      "date": "12.09.2026",
-      "description": "Zehn Mähroboter ohne Begrenzungskabel für kleine Gärten bis 500 m² im Test: Von günstiger Kamera- und RTK-Navigation bis LiDAR.",
+      "date": "14.09.2026",
+      "description": "Zwei prominente US-Gesetzgeber greifen das britische Überwachungsgericht IPT scharf an.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-fuer-kleine-flaechen-im-test-kabellos-kompakt-ab-475-euro/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-353a303de2",
-      "category": "Business",
-      "title": "VW stimmt Gesprächen mit Gewerkschaft über Konzernumbau zu",
-      "symbol": "↗",
-      "relevance": 84,
-      "date": "12.09.2026",
-      "description": "Volkswagen steht vor einem tiefgreifenden Umbau, viele Fragen sind offen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/VW-stimmt-Gespraechen-mit-Gewerkschaft-ueber-Konzernumbau-zu-11451295.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iCloud-Verschluesselung-US-Politiker-fordern-Ende-der-britischen-Geheimhaltung-11451691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
