@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:32:23+00:00",
+  "updatedAt": "2026-09-20T05:33:10+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,46 +17,46 @@
       "sourceUrl": "https://www.heise.de/news/Last-Call-c-t-Webinar-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-11454950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-e7f1b6a7f8",
+      "id": "auto-cd0a7d435e",
       "category": "KI",
-      "title": "Freitag: Meta-Haftung für Nutzerbetrug, Googles KI-Agent für das Familienleben",
+      "title": "heise+ | Nach dem Hugging-Face-Hack: Was jetzt auf die IT zukommt",
       "symbol": "✦",
-      "relevance": 87,
+      "relevance": 84,
       "date": "18.09.2026",
-      "description": "Haftung für betrügerische Beiträge + KI zur Haushaltsverwaltung + Nachbarschaftswache von Smart-Home-Anbieter + Lkw mit Brennstoffzellen + Datenschutz-Podcast.",
+      "description": "Der Hugging-Face-Hack hat gezeigt, wozu KI-Agenten in Sachen Hacking imstande sind.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Freitag-Meta-Haftung-fuer-Nutzerbetrug-Googles-KI-Agent-fuer-das-Familienleben-11457687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Nach-dem-Hugging-Face-Hack-Was-jetzt-auf-die-IT-zukommt-11456857.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-f8a77e4533",
+      "id": "auto-06480faac7",
       "category": "Technologie",
-      "title": "EU prüft OpenAI nach nicht gemeldetem Sicherheitsvorfall",
+      "title": "Fehlkonfiguration im Test: Gemini greift auf drei echte Firmen zu",
       "symbol": "◇",
-      "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Nach einem Vorfall beim Software-Register RubyGems meldete OpenAI diesen nicht der EU.",
+      "relevance": 87,
+      "date": "19.09.2026",
+      "description": "Eine Fehlkonfiguration gab Gemini in einem Cybertest Internetzugang.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Versaeumter-Sicherheitsbericht-OpenAI-geraet-wegen-EU-Regeln-unter-Druck-11458971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Fehlkonfiguration-im-Test-Gemini-greift-auf-drei-echte-Firmen-zu-11459067.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-0bcc32d5e8",
+      "id": "auto-5c182fbdad",
       "category": "Technologie",
-      "title": "Samsung Galerie-App: Cloud-Synchronisierung wechselt von OneDrive zu Google",
+      "title": "Mähroboter Stiga A 6v im Test: Made in Europe – aber auch gut?",
       "symbol": "◇",
       "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Samsung beendet die OneDrive-Synchronisierung in der Galerie-App.",
+      "date": "19.09.2026",
+      "description": "Der Stiga A 6v mäht sehr sauber und navigiert ohne Begrenzungsdraht.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Samsung-Galerie-App-Cloud-Synchronisierung-wechselt-von-OneDrive-zu-Google-11458663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/bestenlisten/testbericht/maehroboter-stiga-a-6v-im-test-made-in-europe-aber-auch-gut/hs3vy1c?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-089afba9de",
@@ -171,46 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_N063_63.html"
     },
     {
-      "id": "auto-66f597c4fb",
+      "id": "auto-6561eff788",
       "category": "Business",
-      "title": "EuGH-Entscheidung könnte private Datenverarbeitung strenger regulieren",
+      "title": "Gefälschte GitHub-Repositorys: Neue Infostealer-Variante",
       "symbol": "↗",
       "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Der Bundesgerichtshof will vom EuGH wissen, wie weit die „Haushaltsausnahme“ der DSGVO bei weitergeleiteten Messenger-Nachrichten und Heimüberwachung reicht.",
+      "date": "19.09.2026",
+      "description": "Gefälschte GitHub-Repositorys sollen Opfer zum Download bewegen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/BGH-ruft-EuGH-an-Wo-endet-die-private-Datenverarbeitung-in-Chat-und-Kueche-11458929.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/LastPass-entdeckt-neue-Infostealer-Variante-die-sich-als-GitHub-Repo-tarnt-11459163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-c394b0cd3c",
-      "category": "Technologie",
-      "title": "Nordkoreanische Cybergruppe bestiehlt IT-Fachleute auf Jobsuche",
-      "symbol": "◇",
+      "id": "auto-cf55b03f5b",
+      "category": "Nachhaltigkeit",
+      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "symbol": "↻",
       "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift.",
+      "date": "19.09.2026",
+      "description": "Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Nordkoreanische-Cybergruppe-bestiehlt-IT-Fachleute-auf-Jobsuche-11458275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-994fb5755c",
+      "id": "auto-6429979486",
       "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Der schnelle Weg zum iSAQB-zertifizierten Softwarearchitekten",
+      "title": "Adobe bringt KI-Videos und Viltrox wird winzig – Fotonews der Woche 38",
       "symbol": "◇",
       "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Werden Sie zum Certified Professional for Software Architecture (CPSA).",
+      "date": "19.09.2026",
+      "description": "Adobe macht aus Fotos Videos, Viltrox schrumpft Objektive auf Chipgröße und Wissenschaftsfotografie begeistert.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-iSAQB-zertifizierten-Softwarearchitekten-11434044.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Adobe-bringt-KI-Videos-und-Viltrox-wird-winzig-Fotonews-der-Woche-38-11458385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
