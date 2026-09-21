@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-09-20T05:33:10+00:00",
+  "updatedAt": "2026-09-21T10:51:37+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
-      "id": "auto-757128e365",
+      "id": "auto-b86798c680",
       "category": "KI",
-      "title": "heise-Angebot: Last Call – c’t-Webinar: MCP verstehen und KI-Agenten im Alltag nutzen",
+      "title": "Token statt Bauchgefühl: Splunk soll KI kalkulierbar machen",
       "symbol": "✦",
       "relevance": 87,
-      "date": "18.09.2026",
-      "description": "Wenn KI auf echte Daten und Systeme zugreift, braucht es Wissen und Vorsicht.",
+      "date": "21.09.2026",
+      "description": "Auf der .conf stellte Splunk Neuerungen im KI-Bereich vor: Agent Observability, Tokenomics und eine KI-Lösung für eigene Rechenzentren.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Last-Call-c-t-Webinar-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-11454950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/KI-Agenten-im-Griff-Splunk-macht-Kosten-und-Risiken-sichtbar-11459798.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-cd0a7d435e",
+      "id": "auto-4486ea3f00",
       "category": "KI",
-      "title": "heise+ | Nach dem Hugging-Face-Hack: Was jetzt auf die IT zukommt",
+      "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
       "symbol": "✦",
-      "relevance": 84,
-      "date": "18.09.2026",
-      "description": "Der Hugging-Face-Hack hat gezeigt, wozu KI-Agenten in Sachen Hacking imstande sind.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 86,
+      "date": "20.09.2026",
+      "description": "Nach Hacking-Vorfällen plädierten selbst führende KI-Firmen dafür, die Entwicklung der Technologie zu drosseln.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/hintergrund/Nach-dem-Hugging-Face-Hack-Was-jetzt-auf-die-IT-zukommt-11456857.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html"
     },
     {
       "id": "auto-06480faac7",
@@ -45,18 +45,18 @@
       "sourceUrl": "https://www.heise.de/news/Fehlkonfiguration-im-Test-Gemini-greift-auf-drei-echte-Firmen-zu-11459067.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-5c182fbdad",
+      "id": "auto-b82f329d38",
       "category": "Technologie",
-      "title": "Mähroboter Stiga A 6v im Test: Made in Europe – aber auch gut?",
+      "title": "heise+ | Cyberrisiken moderner KI-Systeme",
       "symbol": "◇",
       "relevance": 84,
-      "date": "19.09.2026",
-      "description": "Der Stiga A 6v mäht sehr sauber und navigiert ohne Begrenzungsdraht.",
+      "date": "21.09.2026",
+      "description": "Mehrere KI-Modelle haben in Sicherheitstests Testumgebungen verlassen und fremde Produktivsysteme kompromittiert – ein Prüfstein für den EU AI-Act.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/bestenlisten/testbericht/maehroboter-stiga-a-6v-im-test-made-in-europe-aber-auch-gut/hs3vy1c?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Cyberrisiken-moderner-KI-Systeme-11438085.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
       "id": "auto-089afba9de",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_327_421.html"
     },
     {
-      "id": "auto-b845c94189",
+      "id": "auto-10182db020",
       "category": "Business",
-      "title": "Großhandelspreise im August 2026: +6,8 % gegenüber August 2025",
+      "title": "heise+ | Krisenmanagement in der IT: Rollen und Strategien für den Notfall",
       "symbol": "↗",
-      "relevance": 85,
-      "date": "15.09.2026",
-      "description": "Die Verkaufspreise im Großhandel waren im August 2026 um 6,8 % höher als im August 2025.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 84,
+      "date": "21.09.2026",
+      "description": "heise+ | Krisenmanagement in der IT: Rollen und Strategien für den Notfall zeigt neue Dynamik im Bereich Business.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_326_61281.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/hintergrund/Krisenmanagement-in-der-IT-Rollen-und-Strategien-fuer-den-Notfall-11452476.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
       "id": "auto-9771a053bb",
@@ -101,18 +101,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_N065_12.html"
     },
     {
-      "id": "auto-b9efb4372f",
+      "id": "auto-f1c4384e3b",
       "category": "Gesellschaft",
-      "title": "Weltkindertag: 12,9 % der Bevölkerung in Deutschland waren Ende 2025 unter 14 Jahre alt",
+      "title": "Montag: Gesundheitsdatenautobahn vor Umbau, Kritik an Chat-Löschungen der EU",
       "symbol": "◎",
-      "relevance": 85,
-      "date": "15.09.2026",
-      "description": "10,8 Millionen Kinder unter 14 Jahren gab es zum Ende des Jahres 2025 in Deutschland.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 84,
+      "date": "21.09.2026",
+      "description": "Ausfälle der Telematikinfrastruktur + IT-Sicherheit vor EU-Transparenz + Smart-Futterautomaten keine Abhörung + Speicher für PV-Ausbau + KI-Ausbruch nach Fehler.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_38_p002.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Montag-Gesundheitsdatenautobahn-vor-Umbau-Kritik-an-Chat-Loeschungen-der-EU-11459491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-1d127c119a",
@@ -129,20 +129,6 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_N064_47_21.html"
     },
     {
-      "id": "auto-57a14c514e",
-      "category": "Nachhaltigkeit",
-      "title": "Gesperrte Straße von Hormus: Laut Prognose werden CO₂-Emissionen 2026 sinken",
-      "symbol": "↻",
-      "relevance": 87,
-      "date": "18.09.2026",
-      "description": "Seit den Angriffen der USA und Israels auf den Iran liegt der Handel durch die Straße von Hormus weitestgehend still.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Gesperrte-Strasse-von-Hormus-Globale-CO-Emissionen-duerften-2026-doch-sinken-11457741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
       "id": "auto-4fa538c783",
       "category": "Nachhaltigkeit",
       "title": "Erzeugerpreise für Dienstleistungen im 2. Quartal 2026: +3,7 % zum Vorjahresquartal",
@@ -157,60 +143,74 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_329_61311.html"
     },
     {
-      "id": "auto-1f1e7bd117",
-      "category": "Business",
-      "title": "3,8 Millionen Menschen leben in Haushalten mit Zahlungsrückständen bei Versorgungsbetriebe",
-      "symbol": "↗",
-      "relevance": 85,
-      "date": "14.09.2026",
-      "description": "Das Begleichen von Strom- oder Gasrechnungen stellt für einige Menschen eine finanzielle Herausforderung dar.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_N063_63.html"
-    },
-    {
-      "id": "auto-6561eff788",
-      "category": "Business",
-      "title": "Gefälschte GitHub-Repositorys: Neue Infostealer-Variante",
-      "symbol": "↗",
+      "id": "auto-dd6335dd61",
+      "category": "KI",
+      "title": "heise+ | SaaSpokalypse: Wie die Arbeit mit KI-Agenten die Softwarebranche verändert",
+      "symbol": "✦",
       "relevance": 84,
-      "date": "19.09.2026",
-      "description": "Gefälschte GitHub-Repositorys sollen Opfer zum Download bewegen.",
+      "date": "21.09.2026",
+      "description": "Der Einsatz von KI-Agenten setzt die SaaS-Branche unter Druck.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/LastPass-entdeckt-neue-Infostealer-Variante-die-sich-als-GitHub-Repo-tarnt-11459163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/SaaSpokalypse-Wie-die-Arbeit-mit-KI-Agenten-die-Softwarebranche-veraendert-11403698.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-cf55b03f5b",
+      "id": "auto-e81c83c1b8",
+      "category": "KI",
+      "title": "heise+ | KI am Arbeitsplatz: So bewahren Sie Kreativität und Urteilsvermögen",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "21.09.2026",
+      "description": "KI verhilft Schreibtischarbeitern schneller zu guten Ergebnissen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/hintergrund/KI-am-Arbeitsplatz-So-bewahren-Sie-Kreativitaet-und-Urteilsvermoegen-11431808.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    },
+    {
+      "id": "auto-4d8baecf3e",
       "category": "Nachhaltigkeit",
-      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "title": "Forscher entwickeln elastokalorische Kühlung mit stabiler Kühlleistung",
       "symbol": "↻",
       "relevance": 84,
-      "date": "19.09.2026",
-      "description": "Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
+      "date": "21.09.2026",
+      "description": "Elastokalorische Kühlsysteme nutzen feste Materialien mit Formgedächtnislegierung zur Kühlung und sind im Vergleich zu Kühlmitteln umweltfreundlicher.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Forscher-entwickeln-elastokalorische-Kuehlung-mit-stabiler-Kuehlleistung-11459784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-6429979486",
+      "id": "auto-ec6d8a59b2",
       "category": "Technologie",
-      "title": "Adobe bringt KI-Videos und Viltrox wird winzig – Fotonews der Woche 38",
+      "title": "heise-Angebot: iX-Workshop: Erfolgreiche Umsetzung der E-Rechnungspflicht in Deutschland",
       "symbol": "◇",
       "relevance": 84,
-      "date": "19.09.2026",
-      "description": "Adobe macht aus Fotos Videos, Viltrox schrumpft Objektive auf Chipgröße und Wissenschaftsfotografie begeistert.",
+      "date": "21.09.2026",
+      "description": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Adobe-bringt-KI-Videos-und-Viltrox-wird-winzig-Fotonews-der-Woche-38-11458385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Erfolgreiche-Umsetzung-der-E-Rechnungspflicht-in-Deutschland-11443112.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-0d6c0fa35a",
+      "category": "Business",
+      "title": "USA und China sprechen vorab über KI-Sicherheit und Handelskonflikt",
+      "symbol": "↗",
+      "relevance": 84,
+      "date": "21.09.2026",
+      "description": "Vor dem Gipfel von Trump und Xi haben Vertreter der USA und Chinas über KI-Sicherheit und den Handelskonflikt gesprochen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/USA-und-China-sprechen-vorab-ueber-KI-Sicherheit-und-Handelskonflikt-11459826.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
