@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:11:22+00:00",
+  "updatedAt": "2026-10-03T10:29:02+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -31,32 +31,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_350_p001.html"
     },
     {
-      "id": "auto-c868107093",
+      "id": "auto-522544e66a",
       "category": "Technologie",
-      "title": "Boston Dynamics: Was macht die neue Atlas-Roboterhand besser?",
+      "title": "Top 10: Der beste Saugroboter mit Wischfunktion – zum Prime Day sehr günstig",
       "symbol": "◇",
       "relevance": 84,
       "date": "02.10.2026",
-      "description": "Boston Dynamics will seinen humanoiden Atlas-Roboter fitter für die Arbeitswelt machen.",
+      "description": "Saugroboter mit Wischfunktion erleichtern den Alltag.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Boston-Dynamics-Was-macht-die-neue-Atlas-Roboterhand-besser-11474127.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-mit-wischfunktion-zum-prime-day-sehr-guenstig/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-73f323ed42",
+      "id": "auto-d86653b4b3",
       "category": "Technologie",
-      "title": "1Password 7 ohne Cloud: Mac-Update streicht Browser-Plug-in",
+      "title": "Starlink testet Community-WLAN-Programm für Hosts",
       "symbol": "◇",
       "relevance": 84,
       "date": "02.10.2026",
-      "description": "Seit 1Password 8 zwingt der populäre Passwortmanager Nutzer in die Cloud.",
+      "description": "Starlink sucht Hosts, die ein Starlink-Kit aufstellen und Internetzugang gegen Bezahlung an Menschen in der Nähe anbieten.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/1Password-7-Update-fuer-macOS-killt-Unterstuetzung-fuer-Browser-Plug-in-11473487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Starlink-testet-Community-WLAN-Programm-fuer-Hosts-11474765.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-abc9c36b6a",
@@ -101,18 +101,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N067_12.html"
     },
     {
-      "id": "auto-ce00790a06",
+      "id": "auto-91bc641873",
       "category": "Gesellschaft",
-      "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+      "title": "Medienkonsum: Kinderärzte und Psychologen setzen auf strengere Regeln für Kinder",
       "symbol": "◎",
-      "relevance": 83,
+      "relevance": 84,
       "date": "02.10.2026",
-      "description": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "Für den besseren Schutz von Kindern fordern Psychologinnen strengere Regeln.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Medienkonsum-Kinderaerzte-und-Psychologen-setzen-auf-strengere-Regeln-fuer-Kinder-11474444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-26db29268c",
@@ -145,11 +145,11 @@
     {
       "id": "auto-bf8e310705",
       "category": "Business",
-      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "title": "Marktbericht: DAX geht versöhnlich ins Wochenende",
       "symbol": "↗",
       "relevance": 86,
       "date": "02.10.2026",
-      "description": "Der DAX hat vor der Veröffentlichung der US-Arbeitsmarktdaten zugelegt.",
+      "description": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
@@ -171,46 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_351_711.html"
     },
     {
-      "id": "auto-b0c6948c6a",
+      "id": "auto-8606b10b82",
+      "category": "KI",
+      "title": "Leica bleibt Leica und KI trifft Kunst – Fotonews der Woche 40/2026",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "03.10.2026",
+      "description": "Leica-Verkauf gescheitert, Australiens KI-Gesetz trifft Wandmalerei, In-N-Out gegen Teamshooting und ein spektakuläres Sonnenfinsternisbild.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Leica-bleibt-Leica-und-KI-trifft-Kunst-Fotonews-der-Woche-40-2026-11474285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-2833a32452",
+      "category": "KI",
+      "title": "Weniger Prompt, mehr Platz für Code: Pi 1.0.0 ist da",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "03.10.2026",
+      "description": "Pi ist ein erweiterbarer KI-Coding-Agent fürs Terminal.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Coding-Agent-Pi-Mehr-Platz-im-Prompt-weniger-Ballast-11474629.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-5ec13f30ed",
       "category": "Nachhaltigkeit",
-      "title": "heise+ | E-Motorrad Flying Flea C6 im Fahrbericht: Fliegender Floh auf Strom",
+      "title": "Rechenzentren: Wie weichere Effizienzregeln den Strombedarf hochtreiben",
       "symbol": "↻",
       "relevance": 84,
       "date": "02.10.2026",
-      "description": "Cooles Design, verlockender Preis, beschwingtes Fahrgefühl: Wir haben Royal Enfields erstes Elektromotorrad Flying Flea C6 durch den Pariser Verkehr gejagt.",
+      "description": "Eine Analyse legt offen: Werden die Effizienzvorgaben für neue Rechenzentren gelockert, drohen Milliardenkosten, zusätzlicher Gasbedarf und ungenutzte Abwärme.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/tests/E-Motorrad-Flying-Flea-C6-im-Fahrbericht-Fliegender-Floh-auf-Strom-11471305.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
-    },
-    {
-      "id": "auto-60dff6b014",
-      "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswert",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "02.10.2026",
-      "description": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor Angriffen schützen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11451879.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-bbabff56fb",
-      "category": "Technologie",
-      "title": "Softwarearchitektur: Technische Entscheidungen sind auch UX-Entscheidungen",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "02.10.2026",
-      "description": "Den Grundstein für gute User Experience legen Entwicklungsteams bereits in Architektur und Priorisierungen, nicht erst im Interface.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/hintergrund/Softwarearchitektur-Technische-Entscheidungen-sind-auch-UX-Entscheidungen-11457309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Rechenzentren-Wie-weichere-Effizienzregeln-den-Strombedarf-hochtreiben-11474757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
