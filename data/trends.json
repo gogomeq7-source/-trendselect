@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-04T11:10:19+00:00",
+  "updatedAt": "2026-10-05T12:24:06+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
-      "id": "auto-97b0fe9d3b",
+      "id": "auto-f17b862250",
       "category": "KI",
-      "title": "OpenAI feuert drei Mitarbeiter nach KI-Enthüllungen",
+      "title": "heise+ | Lokale KI als Schreibhilfe: LLMs in LibreOffice, Obsidian & Co. einsetzen",
       "symbol": "✦",
       "relevance": 87,
-      "date": "02.10.2026",
-      "description": "Eskapaden von KI des ChatGPT-Entwicklers OpenAI schürten zuletzt die Angst vor der Technologie.",
+      "date": "05.10.2026",
+      "description": "Chat-Masken eignen sich wenig, um lokale LLMs als Schreibhilfe einzusetzen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/OpenAI-feuert-drei-Mitarbeiter-nach-KI-Enthuellungen-11473825.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/ratgeber/Lokale-LLMs-in-Text-und-Notizsoftware-So-arbeitet-die-KI-produktiv-mit-11466058.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
       "id": "auto-da56848cee",
@@ -31,32 +31,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_350_p001.html"
     },
     {
-      "id": "auto-0f0268f0d7",
+      "id": "auto-f9b7c6aa4d",
       "category": "Technologie",
-      "title": "Bericht: FBI-Angreifer von „ShinyHunters“ gefasst und kooperativ",
+      "title": "IBM Bob: COBOL trifft KI – ohne Umweg über die Cloud",
       "symbol": "◇",
-      "relevance": 84,
-      "date": "04.10.2026",
-      "description": "Einem Bericht zufolge wurde ein weiteres Mitglied der Cyberbande „ShinyHunters“ in Jordanien festgesetzt.",
+      "relevance": 87,
+      "date": "05.10.2026",
+      "description": "IBM bietet Bob nun als selbstgehostete Option an.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Bericht-FBI-Angreifer-von-ShinyHunters-gefasst-und-kooperativ-11475303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/IBM-Bob-COBOL-trifft-KI-ohne-Umweg-ueber-die-Cloud-11475819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-21a749248c",
+      "id": "auto-1942da1bff",
       "category": "Technologie",
-      "title": "heise+ | Apple Watch Series 12 und Ultra 4 im Test: Sensor-Spurt rund um die Uhr",
+      "title": "Unbekannte greifen auf dänisches Personenregister zu",
       "symbol": "◇",
       "relevance": 84,
-      "date": "04.10.2026",
-      "description": "Dauerhafte Pulsmessung, S11-Chip und die Messung der persönlichen „Tagesform“: Wir haben geprüft, was das Watch-Update bringt – und ob es am Akku zehrt.",
+      "date": "05.10.2026",
+      "description": "Unbekannte haben in Dänemark Zugriff auf die Daten von rund 8,8 Millionen Menschen erhalten.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/tests/Apple-Watch-Series-12-und-Ultra-4-im-Test-Sensor-Spurt-rund-um-die-Uhr-11464792.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/Daenemark-Illegaler-Zugriff-auf-Millionen-Datensaetze-11476119.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-abc9c36b6a",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_346_45212.html"
     },
     {
-      "id": "auto-0b91921095",
+      "id": "auto-e440e0b554",
       "category": "Business",
-      "title": "heise-Angebot: Kostenloses Whitepaper: Wenn Hacker KI nutzen.",
+      "title": "heise+ | KI-Agenten außer Kontrolle: Warum OpenAI & Co. in den USA nicht haftbar sind",
       "symbol": "↗",
       "relevance": 87,
-      "date": "02.10.2026",
-      "description": "KI verändert nicht nur Arbeitsprozesse, sondern auch die Möglichkeiten von Angreifern.",
+      "date": "05.10.2026",
+      "description": "Jüngste Hacker-Angriffe durch KI-Agenten zeigen: Die US-Gesetzgebung hinkt bei der Verantwortung von Unternehmen hinterher.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Kostenloses-Whitepaper-Wenn-Hacker-KI-nutzen-11438392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/KI-Agenten-ausser-Kontrolle-Warum-OpenAI-Co-in-den-USA-nicht-haftbar-sind-11472481.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
       "id": "auto-290ce07d74",
@@ -101,18 +101,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N067_12.html"
     },
     {
-      "id": "auto-91bc641873",
+      "id": "auto-6c0262bf64",
       "category": "Gesellschaft",
-      "title": "Medienkonsum: Kinderärzte und Psychologen setzen auf strengere Regeln für Kinder",
+      "title": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
       "symbol": "◎",
-      "relevance": 84,
-      "date": "02.10.2026",
-      "description": "Für den besseren Schutz von Kindern fordern Psychologinnen strengere Regeln.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 83,
+      "date": "05.10.2026",
+      "description": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den sozialen Medien mit einer Studentin.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Medienkonsum-Kinderaerzte-und-Psychologen-setzen-auf-strengere-Regeln-fuer-Kinder-11474444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html"
     },
     {
       "id": "auto-26db29268c",
@@ -143,74 +143,74 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_348_611.html"
     },
     {
-      "id": "auto-83adc54500",
+      "id": "auto-f33cdd2a48",
       "category": "Business",
-      "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+      "title": "Autonomes Fahren: VW arbeitet mit Wayve statt mit Nvidia",
       "symbol": "↗",
-      "relevance": 86,
-      "date": "03.10.2026",
-      "description": "Ostdeutschland bietet viel Platz für neue Fabriken.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "04.10.2026",
+      "description": "Das britische Startup Wayve hat sich VWs Zuschlag für autonome Fahrtechnologien gesichert.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Autonomes-fahren-VW-arbeitet-mit-Wayve-statt-mit-Nvidia-11475343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-bf8e310705",
+      "id": "auto-937b9612fa",
       "category": "Business",
-      "title": "Marktbericht: DAX geht versöhnlich ins Wochenende",
+      "title": "Öffentliches Finanzierungsdefizit im 1. Halbjahr 2026 bei 98,8 Milliarden Euro",
       "symbol": "↗",
-      "relevance": 86,
+      "relevance": 85,
       "date": "02.10.2026",
-      "description": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "Öffentliches Finanzierungsdefizit im 1. Halbjahr 2026 bei 98,8 Milliarden Euro zeigt neue Dynamik im Bereich Business.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_351_711.html"
     },
     {
-      "id": "auto-9bc6dc2fc6",
-      "category": "KI",
-      "title": "Smart-Meter-Ausbau in Deutschland kommt weiter nur schleppend voran",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "04.10.2026",
-      "description": "Nur 5,9 Prozent aller Messstellen in Deutschland sind digitalisiert.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Smart-Meter-Ausbau-in-Deutschland-kommt-weiter-nur-schleppend-voran-11475273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-4661b7b46f",
-      "category": "Nachhaltigkeit",
-      "title": "heise+ | E-Auto vs. Verbrenner: So teuer ist Ihr neuer Wagen wirklich",
-      "symbol": "↻",
-      "relevance": 84,
-      "date": "04.10.2026",
-      "description": "Wer beim Autokauf nur auf Anschaffungs- und Energiekosten achtet, unterschlägt wichtige Punkte.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/ratgeber/E-Auto-vs-Verbrenner-So-teuer-ist-Ihr-neuer-Wagen-wirklich-11454155.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
-    },
-    {
-      "id": "auto-fbab14e6fb",
+      "id": "auto-276f347df6",
       "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und verm",
+      "title": "Microsoft-Authenticator-Backup ab Januar nicht mehr mit Microsoft-Konto",
       "symbol": "◇",
       "relevance": 84,
-      "date": "04.10.2026",
-      "description": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
+      "date": "05.10.2026",
+      "description": "Microsofts Authenticator kann ein Backup in der Cloud ablegen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11330257.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Microsoft-Authenticator-Android-Backup-ab-Januar-nur-noch-mit-Google-One-11475979.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-ffe798548c",
+      "category": "KI",
+      "title": "ChatGPT-App für macOS: Angreifer konnten sensible Daten einsehen – wie bei Muse",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "05.10.2026",
+      "description": "Nach Meta hatte auch OpenAI ein Sicherheitsproblem in seiner macOS-App.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Nach-Muse-Auch-ChatGPT-App-fuer-macOS-war-angreifbar-11475385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-80910d7e6d",
+      "category": "Technologie",
+      "title": "Roboter fliegt wie ein Ahornsamen in der Luft, segelt autonom auf dem Wasser",
+      "symbol": "◇",
+      "relevance": 84,
+      "date": "05.10.2026",
+      "description": "Roboter „Albatross“ landet durch Autorotation sanft auf dem Wasser.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Roboter-fliegt-wie-ein-Ahornsamen-in-der-Luft-segelt-autonom-auf-dem-Wasser-11475743.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
