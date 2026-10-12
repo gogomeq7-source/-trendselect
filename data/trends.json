@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-11T11:28:53+00:00",
+  "updatedAt": "2026-10-12T13:19:28+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
+    {
+      "id": "auto-4600e8d9aa",
+      "category": "KI",
+      "title": "heise-Angebot: S2N Agentic Ops: Programm der Online-Konferenz zu KI im IT-Betrieb steht",
+      "symbol": "✦",
+      "relevance": 87,
+      "date": "12.10.2026",
+      "description": "Wie verändern KI-Agenten den IT-Betrieb? Die iX-Online-Konferenz stellt am 9.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/S2N-Agentic-Ops-Programm-der-Online-Konferenz-zu-KI-im-IT-Betrieb-steht-11481912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
     {
       "id": "auto-aae654d587",
       "category": "KI",
@@ -17,46 +31,32 @@
       "sourceUrl": "https://www.heise.de/news/Open-Source-Office-OpenDesk-Zendis-bringt-agentische-KI-und-Air-Gap-Modus-11483419.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-9163aea1a2",
-      "category": "KI",
-      "title": "heise-Angebot: Vibe-Coding, CarPlay-Navis, Notizen-Apps sowie iPhone, AirPods und Macs im ",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "11.10.2026",
-      "description": "Wie erstellt man sich selbst mit KI eine Mac-App? Und welche Navi-App mit CarPlay-Anbindung taugt etwas? Das verrät die Mac & i 5/2026.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Vibe-Coding-CarPlay-Navis-Notizen-Apps-sowie-iPhone-AirPods-und-Macs-im-Test-11471392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-4ed7779955",
+      "id": "auto-c81991b064",
       "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
+      "title": "heise+ | Anleitung: Lokale KI-Modelle mit aktuellen Fakten aus dem Internet anreichern",
       "symbol": "◇",
       "relevance": 87,
-      "date": "11.10.2026",
-      "description": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "date": "12.10.2026",
+      "description": "heise+ | Anleitung: Lokale KI-Modelle mit aktuellen Fakten aus dem Internet anreichern zeigt neue Dynamik im Bereich Technologie.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11468523.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Anleitung-Lokale-KI-Modelle-mit-aktuellen-Fakten-aus-dem-Internet-anreichern-11323088.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-3d7027125a",
+      "id": "auto-2cb68efec5",
       "category": "Technologie",
-      "title": "Japan reagiert auf Welle von Cyberangriffen",
+      "title": "Montag: Ukrainische Drohnen gegen russisches Internet, Intels CPU-Wiederauflage",
       "symbol": "◇",
       "relevance": 87,
-      "date": "10.10.2026",
-      "description": "Etliche wichtige Unternehmen in Japan haben Cyberangriffe gemeldet.",
+      "date": "12.10.2026",
+      "description": "Internetausfälle nach Drohnenangriffen + Intels neue Alt-CPUs 2027 + CDU-Vorstoß für stärkere Balkonkraftwerke + Cyberangriffe in Japan + Stopp für Pornosperren.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Japan-reagiert-auf-Welle-von-Cyberangriffen-11483276.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Montag-Ukrainische-Drohnen-gegen-russisches-Internet-Intels-CPU-Wiederauflage-11483723.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-de6575c65f",
@@ -73,18 +73,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_359_236.html"
     },
     {
-      "id": "auto-9bac959e78",
+      "id": "auto-23cd620a2f",
       "category": "Business",
-      "title": "Nach Entlassung bei OpenAI: Ex-Mitarbeiter veröffentlichen kritischen Brief",
+      "title": "heise+ | Speicherchip-Knappheit: Warum DDR5 und NAND-Flash so teuer bleiben",
       "symbol": "↗",
       "relevance": 87,
-      "date": "09.10.2026",
-      "description": "Die drei von OpenAI kürzlich entlassenen Ex-Mitarbeiter setzen sich mit einem kritischen Brief zur Wehr und warnen vor den Entwicklungen in dem Unternehmen.",
+      "date": "12.10.2026",
+      "description": "Bei Arbeitsspeicher und SSDs vollzieht sich ein fundamentaler Wandel.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Nach-Entlassung-bei-OpenAI-Ex-Mitarbeiter-veroeffentlichen-kritischen-Brief-11482574.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Speicherchip-Knappheit-Warum-DDR5-und-NAND-Flash-so-teuer-bleiben-11476795.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    },
+    {
+      "id": "auto-70e17c594b",
+      "category": "Gesellschaft",
+      "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "symbol": "◎",
+      "relevance": 86,
+      "date": "11.10.2026",
+      "description": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html"
     },
     {
       "id": "auto-fbe3066967",
@@ -99,20 +113,6 @@
       "horizon": "1–3 Jahre",
       "source": "heise online",
       "sourceUrl": "https://www.heise.de/news/EUDI-Wallet-Gesundheitswesen-plant-mit-doch-zentrale-Fragen-sind-offen-11482406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-bc6af096dd",
-      "category": "Gesellschaft",
-      "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-      "symbol": "◎",
-      "relevance": 83,
-      "date": "11.10.2026",
-      "description": "Mehrere US-Sender hatten vorübergehend die Berichterstattung über US-Präsident Trump eingestellt, weil er einzelne Medien aus dem Weißen Haus ausgeschlossen hatte.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html"
     },
     {
       "id": "auto-7666a9177e",
@@ -143,74 +143,74 @@
       "sourceUrl": "https://www.heise.de/hintergrund/Essbare-Batterie-fuer-Medizintechnik-im-Magen-wird-mitverdaut-11467136.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-c258d7240a",
+      "id": "auto-d392665882",
       "category": "Business",
-      "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+      "title": "Parallel erhält 100 Millionen US-Dollar für batterieelektrische Güterwagen",
       "symbol": "↗",
-      "relevance": 86,
-      "date": "10.10.2026",
-      "description": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "12.10.2026",
+      "description": "Die autonomen batterieelektrischen Güterwaggons von Parallel sollen dank einer kräftigen Finanzspritze in größerem Stil produziert und vermarktet werden.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Parallel-erhaelt-100-Millionen-US-Dollar-fuer-batterieelektrische-Gueterwagen-11483989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-d47a57a480",
-      "category": "Business",
-      "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
-      "symbol": "↗",
-      "relevance": 86,
-      "date": "10.10.2026",
-      "description": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html"
-    },
-    {
-      "id": "auto-0c8859bb72",
+      "id": "auto-4ed7779955",
       "category": "Technologie",
-      "title": "Oberverwaltungsgericht NRW kippt Websperren für Pornhub und YouPorn",
+      "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
       "symbol": "◇",
-      "relevance": 84,
-      "date": "10.10.2026",
-      "description": "Das OVG NRW stoppt Eilverfügungen gegen Netzsperren für Pornoseiten.",
+      "relevance": 87,
+      "date": "11.10.2026",
+      "description": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Oberverwaltungsgericht-NRW-kippt-Websperren-fuer-Pornhub-und-YouPorn-11483348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11468523.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-64b98fa050",
+      "id": "auto-c916851f20",
+      "category": "Business",
+      "title": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
+      "symbol": "↗",
+      "relevance": 86,
+      "date": "12.10.2026",
+      "description": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html"
+    },
+    {
+      "id": "auto-98e724fdce",
       "category": "KI",
-      "title": "KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
+      "title": "heise+ | Wissensgraphen als Architektur zwischen Daten und KI: Jenseits von Data Mesh",
       "symbol": "✦",
       "relevance": 84,
-      "date": "10.10.2026",
-      "description": "Seit Wochen sorgen vor allem Eskapaden der KI von OpenAI für Schlagzeilen.",
+      "date": "12.10.2026",
+      "description": "Ein Data Mesh klärt, wem Daten gehören – nicht, wie eine KI sie versteht.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-von-Anthropic-reichte-Fake-Hinweis-auf-Polizei-Seite-ein-11483284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Wissensgraphen-als-Architektur-zwischen-Daten-und-KI-Jenseits-von-Data-Mesh-11478933.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
     },
     {
-      "id": "auto-d579f4abb5",
-      "category": "Nachhaltigkeit",
-      "title": "heise-Angebot: Last Call: c’t-Webinar –Wärmepumpen-Grundlagen",
-      "symbol": "↻",
+      "id": "auto-30751d41cc",
+      "category": "Technologie",
+      "title": "Cyberkriminelle behaupten Datenleck bei Confluent, Deloitte, KFC und MoneyGram",
+      "symbol": "◇",
       "relevance": 84,
-      "date": "10.10.2026",
-      "description": "Viele zweifeln, ob sich eine Wärmepumpe für ihr Gebäude eignet.",
+      "date": "12.10.2026",
+      "description": "Eine Cybergang behauptet, bei Confluent, Deloitte, KFC und MoneyGram Daten kopiert zu haben.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Last-Call-c-t-Webinar-Waermepumpen-Grundlagen-11478663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Cyberkriminelle-behaupten-Datenleck-bei-Confluent-Deloitte-KFC-und-MoneyGram-11484301.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
