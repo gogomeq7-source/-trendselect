@@ -1,62 +1,76 @@
 {
-  "updatedAt": "2026-10-16T09:57:30+00:00",
+  "updatedAt": "2026-10-17T09:30:00+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
-      "id": "auto-a3b6038c39",
+      "id": "auto-57cf251257",
       "category": "KI",
-      "title": "TV-Staffel gelöscht, kein Backup: Schwedischer Sender bestreitet Schuld von KI",
+      "title": "KI im Recruiting: Wie McKinsey Bewerbende mit Chatbots testet",
       "symbol": "✦",
-      "relevance": 84,
+      "relevance": 87,
       "date": "16.10.2026",
-      "description": "Die nächste Staffel von „The Challenge Sverige“ verspätet sich, die geschnittene Fassung wurde gelöscht.",
+      "description": "Das Beratungsunternehmen McKinsey setzt in Nordamerika auf künstliche Intelligenz, um Bewerbende in simulierten Kundengesprächen auf die Probe zu stellen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/TV-Staffel-geloescht-kein-Backup-Schwedischer-Sender-bestreitet-Schuld-von-KI-11490175.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/KI-im-Recruiting-Wie-McKinsey-Bewerbende-mit-Chatbots-testet-11490750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-b1b7078d88",
+      "id": "auto-86bb12d513",
       "category": "KI",
-      "title": "heise-Angebot: Vibe-Coding auf dem Mac: Eigene Apps mit KI entwickeln",
+      "title": "RTX Spark im Test: Nvidias erster Notebook-Chip für lokale KI",
       "symbol": "✦",
       "relevance": 84,
       "date": "16.10.2026",
-      "description": "App-Idee, aber keine Programmierkenntnisse? Das Mac & i - Webinar zeigt vier Wege, Apps auf dem Mac zu entwickeln und für Web, Mac oder iPhone bereitzustellen.",
+      "description": "Das erste RTX-Spark-Notebook im c’t-3003-Testlabor: Kann das Asus ProArt P14 die KI-Versprechen einlösen? Und: Läuft es wirklich nur mit Windows?",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Per-Vibe-Coding-auf-dem-Mac-zur-eigenen-App-11461579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-7e1fdf3ff7",
+      "id": "auto-27c660073f",
       "category": "Technologie",
-      "title": "heise+ | Mini-PC-Kaufberatung: Gute Wahl treffen in Zeiten teurer Speicherchips",
+      "title": "Belttunnel – Arbeiten laufen nach Cyberangriff wieder an",
       "symbol": "◇",
       "relevance": 84,
-      "date": "16.10.2026",
-      "description": "Neue Mobilprozessoren bringen attraktive Verbesserungen für Mini-PCs.",
+      "date": "17.10.2026",
+      "description": "Zwischen Deutschland und Dänemark wird ein Tunnel gebaut.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/ratgeber/Mini-PC-Kaufberatung-Gute-Wahl-treffen-in-Zeiten-teurer-Speicherchips-11422361.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/Belttunnel-Arbeiten-laufen-nach-Cyberangriff-wieder-an-11491544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-bf65acdbf9",
+      "id": "auto-6fda0f54f7",
       "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und verm",
+      "title": "heise-Angebot: iX-Workshop: Mastering Azure – Administration der Azure Cloud Services",
       "symbol": "◇",
       "relevance": 84,
       "date": "16.10.2026",
-      "description": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
+      "description": "Lernen Sie, die grundlegenden Komponenten der Microsoft Azure Cloud zu administrieren, zu konfigurieren und zu implementieren [--] in Theorie und Praxis.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11477267.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Mastering-Azure-Administration-der-Azure-Cloud-Services-11472921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-762811d4e6",
+      "category": "Business",
+      "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
+      "symbol": "↗",
+      "relevance": 89,
+      "date": "16.10.2026",
+      "description": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
     },
     {
       "id": "auto-04358c4c4c",
@@ -73,20 +87,6 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N070_61.html"
     },
     {
-      "id": "auto-24af72ca81",
-      "category": "Business",
-      "title": "10 % weniger Lebkuchen im Jahr 2025 in Deutschland produziert",
-      "symbol": "↗",
-      "relevance": 88,
-      "date": "13.10.2026",
-      "description": "Bis zur Weihnachtszeit ist noch etwas Zeit, doch die Supermarktregale sind schon gut mit Lebkuchen gefüllt - und in der Produktion herrscht längst Hochsaison.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_42_p002.html"
-    },
-    {
       "id": "auto-7b6780f162",
       "category": "Gesellschaft",
       "title": "Sterbefallzahlen im 3. Quartal 2026: Hitzewellen führen zu vorübergehenden Anstiegen",
@@ -101,18 +101,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_365_126.html"
     },
     {
-      "id": "auto-3371dacb2c",
+      "id": "auto-2b57fe4649",
       "category": "Gesellschaft",
-      "title": "AdFection: Wie Online-Werbung zum Einfallstor für Staatstrojaner wird",
+      "title": "Withings: Apple-Health-Sync kostet extra – aber nur für Neukunden",
       "symbol": "◎",
       "relevance": 84,
-      "date": "15.10.2026",
-      "description": "Eine Studie des Citizen Lab enthüllt, dass globale Werbenetzwerke für gezielte Zero-Click-Spionageangriffe missbraucht werden.",
+      "date": "16.10.2026",
+      "description": "Die meisten Besitzer von Withings-Gesundheitszubehör synchronisieren ihre Daten auch zu Apples Health-App.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/AdFection-Wie-Online-Werbung-zum-Einfallstor-fuer-Staatstrojaner-wird-11489744.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Withings-Apple-Health-Sync-kostet-extra-aber-nur-fuer-Neukunden-11490798.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-bc4bf174ff",
@@ -143,32 +143,46 @@
       "sourceUrl": "https://www.heise.de/news/Biobatterie-nutzt-sporenbildende-Bakterien-in-kuenstlichen-Darmzotten-11490196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-9ac7ded9db",
+      "id": "auto-24af72ca81",
       "category": "Business",
-      "title": "Erzeugerpreise landwirtschaftlicher Produkte im August 2026: -7,0 % gegenüber August 2025",
+      "title": "10 % weniger Lebkuchen im Jahr 2025 in Deutschland produziert",
       "symbol": "↗",
-      "relevance": 85,
-      "date": "14.10.2026",
-      "description": "Die Erzeugerpreise landwirtschaftlicher Produkte waren im August 2026 um 7,0 % niedriger als im August 2025.",
+      "relevance": 88,
+      "date": "13.10.2026",
+      "description": "Bis zur Weihnachtszeit ist noch etwas Zeit, doch die Supermarktregale sind schon gut mit Lebkuchen gefüllt - und in der Produktion herrscht längst Hochsaison.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_367_61211.html"
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_42_p002.html"
     },
     {
-      "id": "auto-c88045f400",
+      "id": "auto-48d4ba32bc",
       "category": "Business",
-      "title": "Großhandelspreise im September 2026: +8,7 % gegenüber September 2025",
+      "title": "Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
       "symbol": "↗",
-      "relevance": 85,
-      "date": "14.10.2026",
-      "description": "Die Verkaufspreise im Großhandel waren im September 2026 um 8,7 % höher als im September 2025.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 87,
+      "date": "16.10.2026",
+      "description": "Am Montag und Dienstag lädt die Bundesregierung zu einem Investitionsgipfel in Berlin.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_368_61281.html"
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Bundesregierung-plant-Kooperation-mit-US-Chiphersteller-Nvidia-11490926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-e5720966e9",
+      "category": "KI",
+      "title": "Dank KI: Rebootfester Jailbreak für iOS 27.0.1 bis zum iPhone 18 Pro, untethered",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "16.10.2026",
+      "description": "Das Team Calif.io hat den ersten rebootfesten Jailbreak seit iOS 9 entwickelt.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Untethered-Jailbreak-fuer-iOS-27-0-1-auf-iPhone-18-Pro-der-Reboots-ueberlebt-11490726.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-26b8324fee",
@@ -185,32 +199,18 @@
       "sourceUrl": "https://www.heise.de/meinung/Post-zum-Freitag-Vibe-Coding-lehrt-Adobe-das-Fuerchten-und-Microsoft-gleich-mit-11489894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-fe82da35e0",
+      "id": "auto-bf65acdbf9",
       "category": "Technologie",
-      "title": "Nach Cyberangriff: Bauarbeiten am Fehmarnbelt-Tunnel gestört",
+      "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und verm",
       "symbol": "◇",
       "relevance": 84,
       "date": "16.10.2026",
-      "description": "Offline-Zwang für Arbeiter, Probleme bei der Schiffsnavigation und ausgefallene Zutrittskontrollen erschwerten die Arbeit am Mammutprojekt.",
+      "description": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Nach-Cyberangriff-Bauarbeiten-am-Fehmarnbelt-Tunnel-gestoert-11490277.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-6db5e1df8d",
-      "category": "KI",
-      "title": "Auslegungssache 170: Wie Deepfakes das Recht herausfordern",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "16.10.2026",
-      "description": "Deepfakes beschäftigen die Gesetzgeber in Brüssel und Berlin.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/hintergrund/Auslegungssache-170-Wie-Deepfakes-das-Recht-herausfordern-11486691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11477267.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
