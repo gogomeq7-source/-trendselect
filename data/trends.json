@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:30:00+00:00",
+  "updatedAt": "2026-10-18T09:43:32+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,18 +17,18 @@
       "sourceUrl": "https://www.heise.de/news/KI-im-Recruiting-Wie-McKinsey-Bewerbende-mit-Chatbots-testet-11490750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-86bb12d513",
+      "id": "auto-ebfc26d938",
       "category": "KI",
-      "title": "RTX Spark im Test: Nvidias erster Notebook-Chip für lokale KI",
+      "title": "KI-Kopien des Grüffelo: Illustrator Axel Scheffler will gegen Betreiber klagen",
       "symbol": "✦",
       "relevance": 84,
-      "date": "16.10.2026",
-      "description": "Das erste RTX-Spark-Notebook im c’t-3003-Testlabor: Kann das Asus ProArt P14 die KI-Versprechen einlösen? Und: Läuft es wirklich nur mit Windows?",
+      "date": "18.10.2026",
+      "description": "Nach OpenAI-Klagen deutscher Verlage zieht nun auch der Schöpfer des Kult-Monsters in Erwägung, gegen generative Künstliche Intelligenz vor Gericht zu ziehen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/KI-Kopien-des-Grueffelo-Illustrator-Axel-Scheffler-will-gegen-Betreiber-klagen-11491779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-27c660073f",
@@ -129,18 +129,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
     },
     {
-      "id": "auto-372e5896e0",
+      "id": "auto-b029ddb1b6",
       "category": "Nachhaltigkeit",
-      "title": "Biobatterie nutzt sporenbildende Bakterien in künstlichen Darmzotten",
+      "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
       "symbol": "↻",
-      "relevance": 84,
-      "date": "16.10.2026",
-      "description": "Eine Biobatterie erzeugt mittels sporenbildender Bakterien in künstlichen Darmzotten Energie.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 83,
+      "date": "18.10.2026",
+      "description": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Biobatterie-nutzt-sporenbildende-Bakterien-in-kuenstlichen-Darmzotten-11490196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html"
     },
     {
       "id": "auto-24af72ca81",
@@ -171,32 +171,32 @@
       "sourceUrl": "https://www.heise.de/news/Bundesregierung-plant-Kooperation-mit-US-Chiphersteller-Nvidia-11490926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-e5720966e9",
+      "id": "auto-5284a2e7b9",
       "category": "KI",
-      "title": "Dank KI: Rebootfester Jailbreak für iOS 27.0.1 bis zum iPhone 18 Pro, untethered",
+      "title": "heise-Angebot: enterJS: Call for Proposals 2027 und letzter Aufruf für KI-Online-Thementag",
       "symbol": "✦",
       "relevance": 84,
-      "date": "16.10.2026",
-      "description": "Das Team Calif.io hat den ersten rebootfesten Jailbreak seit iOS 9 entwickelt.",
+      "date": "17.10.2026",
+      "description": "Der Call for Proposals für die enterJS 2027 ist eröffnet und läuft bis zum 3.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Untethered-Jailbreak-fuer-iOS-27-0-1-auf-iPhone-18-Pro-der-Reboots-ueberlebt-11490726.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/enterJS-Call-for-Proposals-2027-und-letzter-Aufruf-fuer-KI-Online-Thementag-2026-11456215.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-26b8324fee",
-      "category": "Technologie",
-      "title": "Post zum Freitag: Vibe-Coding lehrt Adobe das Fürchten – und Microsoft gleich mit",
-      "symbol": "◇",
+      "id": "auto-86bb12d513",
+      "category": "KI",
+      "title": "RTX Spark im Test: Nvidias erster Notebook-Chip für lokale KI",
+      "symbol": "✦",
       "relevance": 84,
       "date": "16.10.2026",
-      "description": "Schon ewig verdienen Software-Giganten wie Adobe und Microsoft ihr Geld mit Photoshop, Word und Co.",
+      "description": "Das erste RTX-Spark-Notebook im c’t-3003-Testlabor: Kann das Asus ProArt P14 die KI-Versprechen einlösen? Und: Läuft es wirklich nur mit Windows?",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
+      "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/meinung/Post-zum-Freitag-Vibe-Coding-lehrt-Adobe-das-Fuerchten-und-Microsoft-gleich-mit-11489894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-bf65acdbf9",
