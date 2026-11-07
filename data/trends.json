@@ -1,34 +1,48 @@
 {
-  "updatedAt": "2026-11-06T13:03:45+00:00",
+  "updatedAt": "2026-11-07T11:49:06+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
-      "id": "auto-8b9a2ea1d9",
+      "id": "auto-d672566c09",
       "category": "KI",
-      "title": "heise+ | Daten mit dem Data Sharing Advisor bewerten",
+      "title": "Sichere Architektur für KI-Agenten im Backoffice",
       "symbol": "✦",
       "relevance": 84,
-      "date": "06.11.2026",
-      "description": "Unternehmen profitieren von einem Data Sharing Advisor, der Potenziale analysiert und Schutzbedarf durch LLM und Regeln bewertet.",
+      "date": "07.11.2026",
+      "description": "KI-Agenten lassen sich nur sicher in Systeme einbinden, wenn die Architektur für eine Trennung von Daten und Handlungen sorgt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/hintergrund/Daten-mit-dem-Data-Sharing-Advisor-bewerten-11510281.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/hintergrund/Sichere-Architektur-fuer-KI-Agenten-im-Backoffice-11514414.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-4769527ed1",
+      "id": "auto-cce487f31d",
       "category": "KI",
-      "title": "heise-Angebot: iX Testing-Guide – Qualitätssicherung in Zeiten von KI",
+      "title": "Lokale KI: Das läuft auf deinem Rechner",
       "symbol": "✦",
       "relevance": 84,
       "date": "06.11.2026",
-      "description": "Testing-Praxis mit, von und ohne KI – das neue Sonderheft von iX developer berichtet über klassische und moderne Testing-Methoden, Know-how und Best Practices.",
+      "description": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Testing-Guide-Qualitaetssicherung-in-Zeiten-von-KI-11507635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Lokale-KI-Das-laeuft-auf-deinem-Rechner-11515316.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-95d3d2ee7d",
+      "category": "Technologie",
+      "title": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen",
+      "symbol": "◇",
+      "relevance": 87,
+      "date": "06.11.2026",
+      "description": "Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Deutschland-will-Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-7592af5eb0",
@@ -45,20 +59,6 @@
       "sourceUrl": "https://www.heise.de/news/Mehr-als-eine-halbe-Milliarde-Euro-fuer-Chips-aus-Europa-11514366.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-c344467244",
-      "category": "Technologie",
-      "title": "Apple checkt bald iCloud-Links auf „Harmful Content“",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "06.11.2026",
-      "description": "Wer Fotos oder Dateien aus seinem privaten iCloud-Konto mit anderen über Apples Publikationsdienst weitergibt, muss ab sofort mit einer Prüfung rechnen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Apple-checkt-bald-iCloud-Links-auf-Harmful-Content-11514250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
       "id": "auto-09ae56017e",
       "category": "Business",
       "title": "Industrieproduktion wächst überraschend - Autobranche legt zu",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
     },
     {
-      "id": "auto-86a60fb30a",
+      "id": "auto-75eb88faf6",
       "category": "Business",
-      "title": "Marktbericht: DAX springt auf Rekordhoch",
+      "title": "Produktion im September 2026: +0,7 % zum Vormonat",
       "symbol": "↗",
-      "relevance": 89,
-      "date": "05.11.2026",
-      "description": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 88,
+      "date": "06.11.2026",
+      "description": "Die reale (preisbereinigte) Produktion im Produzierenden Gewerbe ist nach vorläufigen Angaben des Statistischen Bundesamtes (Destatis) im September 2026 gegenüber August …",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_389_421.html"
     },
     {
       "id": "auto-a786d74ab1",
@@ -115,46 +115,32 @@
       "sourceUrl": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-109f7458cd",
+      "id": "auto-7b42565bcd",
       "category": "Nachhaltigkeit",
-      "title": "heise+ | Werkzeug per Strom-Fingerabdruck erkennen: Shelly-Hardware gehackt",
+      "title": "Kohlestrom unter 50 Prozent: Was Chinas CO2-Rückgang bedeutet",
       "symbol": "↻",
-      "relevance": 87,
+      "relevance": 84,
       "date": "06.11.2026",
-      "description": "Wie ein gehacktes Shelly-Energiemessgerät mit über 2.000 Messungen pro Sekunde den Gesamtverbrauch und die Betriebszeit einzelner Maschinen getrennt erfasst.",
+      "description": "Weniger Kohlestrom, weniger Öl im Verkehr: Chinas CO2-Ausstoß fiel im dritten Quartal um 3,1 Prozent.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/ratgeber/Werkzeug-per-Strom-Fingerabdruck-erkennen-Shelly-Hardware-gehackt-11490992.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/Weniger-Kohle-weniger-Oel-Chinas-Emissionen-gehen-deutlich-zurueck-11514670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-75a4a5d4e4",
+      "id": "auto-78a606015a",
       "category": "Nachhaltigkeit",
-      "title": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
+      "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
       "symbol": "↻",
-      "relevance": 86,
-      "date": "06.11.2026",
-      "description": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser.",
+      "relevance": 83,
+      "date": "07.11.2026",
+      "description": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html"
-    },
-    {
-      "id": "auto-75eb88faf6",
-      "category": "Business",
-      "title": "Produktion im September 2026: +0,7 % zum Vormonat",
-      "symbol": "↗",
-      "relevance": 88,
-      "date": "06.11.2026",
-      "description": "Die reale (preisbereinigte) Produktion im Produzierenden Gewerbe ist nach vorläufigen Angaben des Statistischen Bundesamtes (Destatis) im September 2026 gegenüber August …",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_389_421.html"
+      "sourceUrl": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html"
     },
     {
       "id": "auto-f949618779",
@@ -171,46 +157,60 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_387_474.html"
     },
     {
-      "id": "auto-5481dd18ef",
+      "id": "auto-60b35b789c",
+      "category": "Business",
+      "title": "4,1 % weniger zuckerhaltige Erfrischungsgetränke im Jahr 2025 produziert als im Vorjahr",
+      "symbol": "↗",
+      "relevance": 88,
+      "date": "03.11.2026",
+      "description": "Zur Reduzierung des Zuckerkonsums erheben viele Staaten eine Zuckersteuer auf zuckerhaltige Getränke.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N075_42.html"
+    },
+    {
+      "id": "auto-69d46fd812",
       "category": "Technologie",
-      "title": "Attacken auf Cisco UCS Central Software und Unified CM können bevorstehen",
+      "title": "Neue Datenschutzklausel bei M365 sorgt für Verwirrung",
       "symbol": "◇",
       "relevance": 84,
       "date": "06.11.2026",
-      "description": "Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
+      "description": "Eine neue Klausel im Microsoft-Datenschutz sorgt für Unruhe im Internet.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Neue-Datenschutzklausel-bei-M365-sorgt-fuer-Verwirrung-11516122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-d6f343c036",
+      "id": "auto-6ce93bdd7b",
       "category": "Technologie",
-      "title": "RAM-Mangel: Smartphone-Hersteller verbauen gebrauchten Speicher",
+      "title": "Mindfactory informiert Kunden über Cyberangriff",
       "symbol": "◇",
       "relevance": 84,
       "date": "06.11.2026",
-      "description": "Ein Marktbeobachter berichtet, dass chinesische Firmen für immer mehr Smartphones unter 200 Euro gebrauchte LPDDR4X-DRAM-Chips recyclen.",
+      "description": "Hardwarehändler Mindfactory ist Opfer eines Cyberangriffs geworden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/RAM-Krise-Gebrauchte-Speicherchips-in-chinesischen-Billig-Smartphones-11514852.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-7b42565bcd",
-      "category": "Nachhaltigkeit",
-      "title": "Kohlestrom unter 50 Prozent: Was Chinas CO2-Rückgang bedeutet",
-      "symbol": "↻",
+      "id": "auto-4769527ed1",
+      "category": "KI",
+      "title": "heise-Angebot: iX Testing-Guide – Qualitätssicherung in Zeiten von KI",
+      "symbol": "✦",
       "relevance": 84,
       "date": "06.11.2026",
-      "description": "Weniger Kohlestrom, weniger Öl im Verkehr: Chinas CO2-Ausstoß fiel im dritten Quartal um 3,1 Prozent.",
+      "description": "Testing-Praxis mit, von und ohne KI – das neue Sonderheft von iX developer berichtet über klassische und moderne Testing-Methoden, Know-how und Best Practices.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
+      "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Weniger-Kohle-weniger-Oel-Chinas-Emissionen-gehen-deutlich-zurueck-11514670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Testing-Guide-Qualitaetssicherung-in-Zeiten-von-KI-11507635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
