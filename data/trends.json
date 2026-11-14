@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:15:45+00:00",
+  "updatedAt": "2026-11-14T12:19:24+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,46 +17,46 @@
       "sourceUrl": "https://www.heise.de/news/Claude-zockt-GTA-4-und-andere-Games-Wie-sich-der-KI-Agent-dabei-anstellt-11524224.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-04cd1b90a3",
+      "id": "auto-dd9afc3c98",
       "category": "KI",
-      "title": "heise+ | Lokale KI in der Softwareentwicklung: Test auf günstigen AMD-Anwendungssystemen",
+      "title": "heise-Angebot: Rust als perfekte Sprache für Agentic AI: Online-Konferenz betterCode() Rus",
       "symbol": "✦",
-      "relevance": 87,
-      "date": "13.11.2026",
-      "description": "Mit einem einzigen Prompt können Frontier-Modelle inzwischen agentisch ganze Anwendungen entwickeln.",
+      "relevance": 84,
+      "date": "14.11.2026",
+      "description": "heise-Angebot: Rust als perfekte Sprache für Agentic AI: Online-Konferenz betterCode() Rust zeigt neue Dynamik im Bereich KI.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/tests/Lokale-KI-in-der-Softwareentwicklung-Test-auf-guenstigen-AMD-Anwendungssystemen-11517832.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/Rust-als-perfekte-Sprache-fuer-Agentic-AI-Online-Konferenz-betterCode-Rust-11523946.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-74ddaa0502",
+      "id": "auto-fed0446b1c",
       "category": "Technologie",
-      "title": "Microsoft-Cloud-Ausfall: E-Mail-Zugriff läuft wieder an",
+      "title": "Microsoft-Ausfall: Woran es lag und wer besonders litt",
       "symbol": "◇",
       "relevance": 84,
-      "date": "13.11.2026",
-      "description": "Der Ausfall der Microsoft-365-Dienste dauert an.",
+      "date": "14.11.2026",
+      "description": "Keine KI, keine Cyberattacke, soweit Microsofts erste Erklärung.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Microsoft-Cloud-Ausfall-E-Mails-weiterhin-nicht-zugreifbar-11524008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Microsoft-Ausfall-Woran-es-lag-und-wer-besonders-litt-11525257.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-a992f51711",
+      "id": "auto-74be9e5ce2",
       "category": "Technologie",
-      "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+      "title": "AWS Emulator im Detail: Die ganze Cloud auf dem eigenen Rechner?",
       "symbol": "◇",
       "relevance": 84,
-      "date": "12.11.2026",
-      "description": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+      "date": "14.11.2026",
+      "description": "AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/AWS-Emulator-im-Detail-Die-ganze-Cloud-auf-dem-eigenen-Rechner-11524450.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-0cf5c8a91e",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.heise.de/news/Marktwert-benennen-Online-Workshop-zu-Verhandlung-in-der-IT-11416507.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-79754f1e5c",
+      "id": "auto-64ee2edd74",
       "category": "Business",
-      "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+      "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
       "symbol": "↗",
       "relevance": 86,
       "date": "13.11.2026",
-      "description": "In Deutschland wurden im August so viele Unternehmens-Insolvenzen registriert wie seit 13 Jahren nicht mehr.",
+      "description": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html"
     },
     {
       "id": "auto-30d8e72f1c",
@@ -101,46 +101,46 @@
       "sourceUrl": "https://www.heise.de/news/Windows-Update-Nebenwirkungen-und-Diensteaenderungen-11523744.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-d8d57f15dd",
-      "category": "Gesellschaft",
-      "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-      "symbol": "◎",
-      "relevance": 83,
-      "date": "13.11.2026",
-      "description": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet.",
+      "id": "auto-75f629256b",
+      "category": "Nachhaltigkeit",
+      "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+      "symbol": "↻",
+      "relevance": 89,
+      "date": "14.11.2026",
+      "description": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html"
+      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html"
     },
     {
-      "id": "auto-f982ae31eb",
+      "id": "auto-3ca0b329b4",
       "category": "Nachhaltigkeit",
-      "title": "Inflationsrate im Oktober 2026 bei +2,8 %",
+      "title": "Keine Priorität für Klimaschutz in der Koalition",
       "symbol": "↻",
-      "relevance": 85,
-      "date": "11.11.2026",
-      "description": "Die Inflationsrate in Deutschland – gemessen als Veränderung des Verbraucherpreisindex (VPI) zum Vorjahresmonat – lag im Oktober 2026 bei +2,8 %.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 86,
+      "date": "14.11.2026",
+      "description": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "Statistisches Bundesamt",
-      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html"
     },
     {
-      "id": "auto-721bcf41b0",
-      "category": "Nachhaltigkeit",
-      "title": "heise+ | Ratgeber: Mit diesen Maßnahmen sinken Ihre Heizkosten spürbar",
-      "symbol": "↻",
-      "relevance": 84,
+      "id": "auto-79754f1e5c",
+      "category": "Business",
+      "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+      "symbol": "↗",
+      "relevance": 86,
       "date": "13.11.2026",
-      "description": "Die letzten Heizungen sind an, die Energie bleibt teuer.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/ratgeber/Ratgeber-Mit-diesen-Massnahmen-sinken-Ihre-Heizkosten-spuerbar-11509677.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "horizon": "Jetzt",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html"
     },
     {
       "id": "auto-3f962d961c",
@@ -157,60 +157,60 @@
       "sourceUrl": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html"
     },
     {
-      "id": "auto-524a9e3eae",
-      "category": "Business",
-      "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
-      "symbol": "↗",
-      "relevance": 86,
-      "date": "13.11.2026",
-      "description": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "id": "auto-f982ae31eb",
+      "category": "Nachhaltigkeit",
+      "title": "Inflationsrate im Oktober 2026 bei +2,8 %",
+      "symbol": "↻",
+      "relevance": 85,
+      "date": "11.11.2026",
+      "description": "Die Inflationsrate in Deutschland – gemessen als Veränderung des Verbraucherpreisindex (VPI) zum Vorjahresmonat – lag im Oktober 2026 bei +2,8 %.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html"
+      "horizon": "1–3 Jahre",
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html"
     },
     {
-      "id": "auto-7d7da1cfbc",
+      "id": "auto-d36dc8e405",
       "category": "KI",
-      "title": "heise+ | Betriebssystem Googlebook OS im Test: Gute Ansätze, unfertiges Konzept",
+      "title": "Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink",
       "symbol": "✦",
       "relevance": 84,
-      "date": "13.11.2026",
-      "description": "Mit KI und eng ans Smartphone gebunden sollen Googlebooks bisherige Chromebooks übertrumpfen.",
+      "date": "14.11.2026",
+      "description": "Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/tests/Betriebssystem-Googlebook-OS-im-Test-Gute-Ansaetze-unfertiges-Konzept-11485901.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-49c6a9e746",
+      "id": "auto-adb788603e",
       "category": "KI",
-      "title": "heise-Angebot: heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten",
+      "title": "Generative KI stiftet Chaos in Brüssel und Straßburg",
       "symbol": "✦",
       "relevance": 84,
       "date": "13.11.2026",
-      "description": "Angriffe mit KI-Agenten sind bald das neue Normal.",
+      "description": "Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11523778.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-40a7e9da78",
+      "id": "auto-52ecfac480",
       "category": "Technologie",
-      "title": "heise+ | Basteltipp: Maßgefertigte Einsätze für Werkzeugboxen herstellen",
+      "title": "KI-Update kompakt: Wirbel um Nvidia, Grundrechte, Gemini 4 Hydrogen, Roboter",
       "symbol": "◇",
       "relevance": 84,
-      "date": "12.11.2026",
-      "description": "Ich zeige, wie man maßgeschneiderte Einsätze für Werkzeugboxen mit kostenloser Software konstruiert und entweder fräst oder mit dem 3D-Drucker herstellt.",
+      "date": "13.11.2026",
+      "description": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/ratgeber/Basteltipp-Massgefertigte-Einsaetze-fuer-Werkzeugboxen-herstellen-11493533.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+      "sourceUrl": "https://www.heise.de/news/KI-Update-kompakt-Wirbel-um-Nvidia-Grundrechte-Gemini-4-Hydrogen-Roboter-11522165.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
