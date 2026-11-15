@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:19:24+00:00",
+  "updatedAt": "2026-11-15T12:51:05+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -73,32 +73,46 @@
       "sourceUrl": "https://www.heise.de/news/Marktwert-benennen-Online-Workshop-zu-Verhandlung-in-der-IT-11416507.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-64ee2edd74",
+      "id": "auto-a55d7940ec",
       "category": "Business",
-      "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+      "title": "Erzeugerpreise landwirtschaftlicher Produkte im September 2026: -4,6 % gegenüber September",
       "symbol": "↗",
-      "relevance": 86,
+      "relevance": 85,
       "date": "13.11.2026",
-      "description": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "Die Erzeugerpreise landwirtschaftlicher Produkte waren im September 2026 um 4,6 % niedriger als im September 2025.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_397_61211.html"
     },
     {
-      "id": "auto-30d8e72f1c",
+      "id": "auto-55e472ea6e",
       "category": "Gesellschaft",
-      "title": "Windows-Update-Nebenwirkungen und Diensteänderungen",
+      "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
       "symbol": "◎",
-      "relevance": 84,
-      "date": "13.11.2026",
-      "description": "Windows-Update-Nebenwirkungen und Diensteänderungen zeigt neue Dynamik im Bereich Gesellschaft.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 83,
+      "date": "15.11.2026",
+      "description": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Windows-Update-Nebenwirkungen-und-Diensteaenderungen-11523744.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+    },
+    {
+      "id": "auto-efa3a00dc2",
+      "category": "Gesellschaft",
+      "title": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
+      "symbol": "◎",
+      "relevance": 83,
+      "date": "15.11.2026",
+      "description": "Erneut sind in Frankreich Zehntausende Menschen in mehreren Städten auf die Straßen gegangen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html"
     },
     {
       "id": "auto-75f629256b",
@@ -129,32 +143,32 @@
       "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html"
     },
     {
-      "id": "auto-79754f1e5c",
+      "id": "auto-ec6f174d96",
       "category": "Business",
-      "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+      "title": "4,5 % mehr Gründungen größerer Betriebe im 1. bis 3. Quartal 2026 als im Vorjahreszeitraum",
       "symbol": "↗",
-      "relevance": 86,
+      "relevance": 85,
       "date": "13.11.2026",
-      "description": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "In den ersten drei Quartalen des Jahres 2026 wurden in Deutschland rund 103 700 Betriebe gegründet, deren Rechtsform und Beschäftigtenzahl auf eine größere wirtschaftliche …",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_399_52311.html"
     },
     {
-      "id": "auto-3f962d961c",
+      "id": "auto-4b0d4e14d4",
       "category": "Business",
-      "title": "Erleichterung für Industrie im EU-Emissionshandel",
+      "title": "Großhandelspreise im Oktober 2026: +8,8 % gegenüber Oktober 2025",
       "symbol": "↗",
-      "relevance": 86,
+      "relevance": 85,
       "date": "13.11.2026",
-      "description": "Die Industrie in der EU soll weniger für Emissionen zahlen müssen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "description": "Die Verkaufspreise im Großhandel waren im Oktober 2026 um 8,8 % höher als im Oktober 2025.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html"
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_396_61281.html"
     },
     {
       "id": "auto-f982ae31eb",
@@ -197,20 +211,6 @@
       "horizon": "Jetzt",
       "source": "heise online",
       "sourceUrl": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-52ecfac480",
-      "category": "Technologie",
-      "title": "KI-Update kompakt: Wirbel um Nvidia, Grundrechte, Gemini 4 Hydrogen, Roboter",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "13.11.2026",
-      "description": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-Update-kompakt-Wirbel-um-Nvidia-Grundrechte-Gemini-4-Hydrogen-Roboter-11522165.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
