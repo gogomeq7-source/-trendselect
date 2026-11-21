@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:10:54+00:00",
+  "updatedAt": "2026-11-21T13:35:55+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,46 +17,46 @@
       "sourceUrl": "https://www.heise.de/news/Stellenanzeigen-verraten-Apples-Plaene-fuer-agentische-KI-11532377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-e198306f80",
+      "id": "auto-99947efda3",
       "category": "KI",
-      "title": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrie",
+      "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
       "symbol": "✦",
       "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.",
+      "date": "21.11.2026",
+      "description": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11516058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-785198fe8b",
+      "id": "auto-e9642f4c68",
       "category": "Technologie",
-      "title": "KI-Update Deep-Dive: Smart Glasses als Alltagshilfe",
+      "title": "Sicherheitsframework fürs Gesundheitswesen – Cyberresilienz richtig testen",
       "symbol": "◇",
-      "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Für blinde Menschen sind KI-Brillen eine Alltagshilfe.",
+      "relevance": 87,
+      "date": "21.11.2026",
+      "description": "Wie lässt sich die Cyberresilienz von Kliniken testen und bewerten? Ein Ansatz berücksichtigt das Zusammenspiel von Software, Infrastruktur und Mensch.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/Sicherheitsframework-fuers-Gesundheitswesen-Cyberresilienz-richtig-testen-11510081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-4579fd9da3",
+      "id": "auto-2c6d13a391",
       "category": "Technologie",
-      "title": "LKA Niedersachsen setzt verdeckte Ermittler als Scheinkinder gegen Groomer ein",
+      "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und verm",
       "symbol": "◇",
       "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Das LKA Niedersachsen lässt Ermittler im Netz als Kinder auftreten, um Cybergrooming-Täter frühzeitig zu identifizieren.",
+      "date": "21.11.2026",
+      "description": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/LKA-Niedersachsen-setzt-verdeckte-Ermittler-als-Scheinkinder-gegen-Groomer-ein-11532577.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11516066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-37725fe5c8",
@@ -73,18 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_400_435.html"
     },
     {
-      "id": "auto-d1b0d186a2",
+      "id": "auto-f2530820d1",
       "category": "Business",
-      "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
+      "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
       "symbol": "↗",
       "relevance": 86,
-      "date": "20.11.2026",
-      "description": "Der DAX fällt im frühen Handel weit zurück, es droht der sechste Verlusttag in Folge.",
+      "date": "21.11.2026",
+      "description": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
+      "sourceUrl": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"
     },
     {
       "id": "auto-3ce350807d",
@@ -115,20 +115,6 @@
       "sourceUrl": "https://www.heise.de/news/Medienregeln-auch-fuer-Influencer-vor-Frankreichwahl-11532275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-1e8e99d8f2",
-      "category": "Nachhaltigkeit",
-      "title": "COP31: Deutsche Politiker auf Kurssuche bei der Weltklimakonferenz",
-      "symbol": "↻",
-      "relevance": 86,
-      "date": "20.11.2026",
-      "description": "Bei der Weltklimakonferenz in Antalya wird auch am offiziell letzten Tag über Finanzierung und den Ausstieg aus Fossilen Energien gestritten.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html"
-    },
-    {
       "id": "auto-2a3a9b5f43",
       "category": "Nachhaltigkeit",
       "title": "Elektrischer Strom im Wert von 4,3 Milliarden Euro im 1. bis 3. Quartal 2026 exportiert",
@@ -143,18 +129,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_406_51.html"
     },
     {
-      "id": "auto-7cff1cbdc1",
+      "id": "auto-8f0af79a4a",
+      "category": "Nachhaltigkeit",
+      "title": "Lebende „Solarmodule“: Wie Feigenkakteen elektrischen Strom erzeugen",
+      "symbol": "↻",
+      "relevance": 84,
+      "date": "20.11.2026",
+      "description": "Feigenkakteen nutzen eine spezielle Art der Photosynthese, um in trockenen Gebieten zu überleben und produzieren dabei eine elektrische Spannung.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Lebende-Solarmodule-Wie-Feigenkakteen-elektrischen-Strom-erzeugen-11532055.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-d1b0d186a2",
       "category": "Business",
-      "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+      "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
       "symbol": "↗",
       "relevance": 86,
-      "date": "19.11.2026",
-      "description": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden.",
+      "date": "20.11.2026",
+      "description": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
     },
     {
       "id": "auto-587945a2cc",
@@ -171,46 +171,46 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N081_61_63.html"
     },
     {
-      "id": "auto-123540aa83",
+      "id": "auto-691c678253",
+      "category": "KI",
+      "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "21.11.2026",
+      "description": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-ba7711a5a3",
       "category": "Technologie",
-      "title": "Weltrekord: 151 Roboter tanzen binnen einer Stunde synchron",
+      "title": "D-You-Wallet: Warten auf Weihnachten",
       "symbol": "◇",
       "relevance": 84,
       "date": "20.11.2026",
-      "description": "In China haben Darbietungen synchroner Bewegungen von Menschenmassen Tradition.",
+      "description": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Guinness-Rekord-151-humanoide-Roboter-tanzen-gleichzeitig-synchron-11532204.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-3bb9fc6dac",
-      "category": "KI",
-      "title": "software-architektur.tv: Produktivität mit KI – das Harvard-Paper",
-      "symbol": "✦",
+      "id": "auto-11f7b20ec5",
+      "category": "Technologie",
+      "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
+      "symbol": "◇",
       "relevance": 84,
       "date": "20.11.2026",
-      "description": "KI schreibt schneller Code, doch kommen dadurch auch mehr Features bei Kunden an? Eine Harvard-Studie liefert Antworten.",
+      "description": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "Jetzt",
+      "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/software-architektur-tv-Produktivitaet-mit-KI-das-Harvard-Paper-11532159.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-f7bea0838e",
-      "category": "KI",
-      "title": "Google baut ein künstliches Internet für seine KI-Agenten",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Google hat ein künstliches Internet mit Tausenden Websites geschaffen, um KI-Agenten realistischen Angriffen auszusetzen und ihre Sicherheit zu verbessern.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
