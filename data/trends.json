@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-21T13:35:55+00:00",
+  "updatedAt": "2026-11-22T13:28:03+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
+    {
+      "id": "auto-4d745e019a",
+      "category": "KI",
+      "title": "Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen",
+      "symbol": "✦",
+      "relevance": 87,
+      "date": "21.11.2026",
+      "description": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
     {
       "id": "auto-5f3f6f2ac9",
       "category": "KI",
@@ -17,18 +31,18 @@
       "sourceUrl": "https://www.heise.de/news/Stellenanzeigen-verraten-Apples-Plaene-fuer-agentische-KI-11532377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-99947efda3",
-      "category": "KI",
-      "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
-      "symbol": "✦",
-      "relevance": 84,
-      "date": "21.11.2026",
-      "description": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben.",
+      "id": "auto-c847bd5f18",
+      "category": "Technologie",
+      "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
+      "symbol": "◇",
+      "relevance": 87,
+      "date": "22.11.2026",
+      "description": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
-      "horizon": "Jetzt",
+      "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11516070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-e9642f4c68",
@@ -45,20 +59,6 @@
       "sourceUrl": "https://www.heise.de/hintergrund/Sicherheitsframework-fuers-Gesundheitswesen-Cyberresilienz-richtig-testen-11510081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-2c6d13a391",
-      "category": "Technologie",
-      "title": "heise-Angebot: iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und verm",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "21.11.2026",
-      "description": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11516066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
       "id": "auto-37725fe5c8",
       "category": "Business",
       "title": "Energieverbrauch der Industrie 2025 um 2,9 % gesunken",
@@ -73,18 +73,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_400_435.html"
     },
     {
-      "id": "auto-f2530820d1",
+      "id": "auto-d6333b7c96",
       "category": "Business",
-      "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+      "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
       "symbol": "↗",
       "relevance": 86,
-      "date": "21.11.2026",
-      "description": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen.",
+      "date": "22.11.2026",
+      "description": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
+    },
+    {
+      "id": "auto-ded720ab38",
+      "category": "Gesellschaft",
+      "title": "Medienbericht: Zentrale FBI-Datenbank angegriffen",
+      "symbol": "◎",
+      "relevance": 84,
+      "date": "21.11.2026",
+      "description": "Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-3ce350807d",
@@ -101,18 +115,46 @@
       "sourceUrl": "https://www.heise.de/news/FFmpeg-9-1-erfindet-Bilder-dazu-wenn-eine-Nvidia-GPU-hilft-11532359.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-549c49230c",
-      "category": "Gesellschaft",
-      "title": "Medienregeln auch für Influencer vor Frankreichwahl",
-      "symbol": "◎",
-      "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Für einen fairen Wahlkampf müssen sich Radio und TV in Frankreich an Regeln halten.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "id": "auto-2a1a48efc7",
+      "category": "Nachhaltigkeit",
+      "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "symbol": "↻",
+      "relevance": 86,
+      "date": "22.11.2026",
+      "description": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Medienregeln-auch-fuer-Influencer-vor-Frankreichwahl-11532275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html"
+    },
+    {
+      "id": "auto-557e2a6b5b",
+      "category": "Nachhaltigkeit",
+      "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+      "symbol": "↻",
+      "relevance": 86,
+      "date": "22.11.2026",
+      "description": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html"
+    },
+    {
+      "id": "auto-f2530820d1",
+      "category": "Business",
+      "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+      "symbol": "↗",
+      "relevance": 86,
+      "date": "21.11.2026",
+      "description": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"
     },
     {
       "id": "auto-2a3a9b5f43",
@@ -129,34 +171,6 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_406_51.html"
     },
     {
-      "id": "auto-8f0af79a4a",
-      "category": "Nachhaltigkeit",
-      "title": "Lebende „Solarmodule“: Wie Feigenkakteen elektrischen Strom erzeugen",
-      "symbol": "↻",
-      "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Feigenkakteen nutzen eine spezielle Art der Photosynthese, um in trockenen Gebieten zu überleben und produzieren dabei eine elektrische Spannung.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Lebende-Solarmodule-Wie-Feigenkakteen-elektrischen-Strom-erzeugen-11532055.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-d1b0d186a2",
-      "category": "Business",
-      "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-      "symbol": "↗",
-      "relevance": 86,
-      "date": "20.11.2026",
-      "description": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
-    },
-    {
       "id": "auto-587945a2cc",
       "category": "Business",
       "title": "5,7 % der Bevölkerung konnten 2025 aus Geldmangel ihre Wohnung nicht angemessen warmhalten",
@@ -171,46 +185,32 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N081_61_63.html"
     },
     {
-      "id": "auto-691c678253",
+      "id": "auto-f6be235006",
       "category": "KI",
-      "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+      "title": "heise-Angebot: TDWI München 2027: Vorträge für die Konferenz zu Data, Analytics und KI ges",
       "symbol": "✦",
       "relevance": 84,
-      "date": "21.11.2026",
-      "description": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+      "date": "22.11.2026",
+      "description": "Im Juni 2027 findet die TDWI München als Deutschlands größter Treffpunkt für Data, Analytics und KI in einer neuen Location statt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/TDWI-Muenchen-2027-Vortraege-fuer-die-Konferenz-zu-Data-Analytics-und-KI-gesucht-11532059.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-ba7711a5a3",
+      "id": "auto-07775dde45",
       "category": "Technologie",
-      "title": "D-You-Wallet: Warten auf Weihnachten",
+      "title": "US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken",
       "symbol": "◇",
       "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.",
+      "date": "22.11.2026",
+      "description": "Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-11f7b20ec5",
-      "category": "Technologie",
-      "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "20.11.2026",
-      "description": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
   ]
 }
