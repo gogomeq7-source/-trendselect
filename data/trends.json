@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:49:17+00:00",
+  "updatedAt": "2026-11-26T15:29:01+00:00",
   "generator": "TrendSelect RSS Radar 1.0",
   "trends": [
     {
@@ -17,18 +17,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_408_52911.html"
     },
     {
-      "id": "auto-79f9c12899",
+      "id": "auto-885d0ba948",
       "category": "KI",
-      "title": "KI-Experiment: Anthropic führt KI-Agenten in Versuchung",
+      "title": "Software Testing: Wer jedes Problem der KI übergibt, verlernt das Denken",
       "symbol": "✦",
       "relevance": 84,
-      "date": "25.11.2026",
-      "description": "Anthropic untersucht mit einem Experiment, wie leicht sich KI-Agenten dazu verleiten lassen, Sicherheitslücken auszunutzen.",
+      "date": "26.11.2026",
+      "description": "Richard Seidl spricht mit Gerald Hüther darüber, wie KI uns das Denken abgewöhnen kann und warum ein scheinbar perfekter Text leblos wirkt.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-Experiment-Anthropic-fuehrt-KI-Agenten-in-Versuchung-11537463.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/blog/Software-Testing-Wer-jedes-Problem-der-KI-uebergibt-verlernt-das-Denken-11538597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-fb7eacd9ae",
@@ -45,18 +45,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N083_61.html"
     },
     {
-      "id": "auto-6e6a2ccb10",
+      "id": "auto-3318dad4f2",
       "category": "Technologie",
-      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "symbol": "◇",
       "relevance": 84,
-      "date": "25.11.2026",
-      "description": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
+      "date": "26.11.2026",
+      "description": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
       "id": "auto-3423f2ba08",
@@ -73,46 +73,18 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html"
     },
     {
-      "id": "auto-9342b7b66a",
+      "id": "auto-ba99332f71",
       "category": "Business",
-      "title": "Celonis statt Palantir: NRW-Polizei setzt auf deutsche Software",
+      "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
       "symbol": "↗",
-      "relevance": 87,
-      "date": "25.11.2026",
-      "description": "Bei der NRW-Polizei läuft die Zusammenarbeit mit der umstrittenen US-Firma Palantir aus.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "relevance": 86,
+      "date": "26.11.2026",
+      "description": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Celonis-statt-Palantir-NRW-Polizei-setzt-auf-deutsche-Software-11537601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-1a287c16c5",
-      "category": "Gesellschaft",
-      "title": "KI-Update kompakt: Nvidia, KI-Migrationsgesetz, Valiants Vermutung, Perplexity",
-      "symbol": "◎",
-      "relevance": 84,
-      "date": "25.11.2026",
-      "description": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-Update-kompakt-Nvidia-KI-Migrationsgesetz-Valiants-Vermutung-Perplexity-11536344.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-2b108686bd",
-      "category": "Gesellschaft",
-      "title": "Galaxy Watch 8: Samsung verteilt One UI 9 Watch mit neuen Gesundheitsfunktionen",
-      "symbol": "◎",
-      "relevance": 84,
-      "date": "25.11.2026",
-      "description": "Samsung hat mit der Verteilung des Updates auf One UI 9 Watch auf Basis von Wear OS 7 begonnen.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Galaxy-Watch-8-Samsung-verteilt-One-UI-9-Watch-mit-neuen-Gesundheitsfunktionen-11537496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html"
     },
     {
       "id": "auto-2a3a9b5f43",
@@ -129,88 +101,116 @@
       "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_406_51.html"
     },
     {
-      "id": "auto-e68c6acc6e",
+      "id": "auto-ffd6ceb290",
       "category": "Nachhaltigkeit",
-      "title": "Erstmals über 100 Terawattstunden Solarstrom in Deutschland erzeugt",
+      "title": "1450 Haushalte ohne Netzstrom: Blackout-Probe in Fuchstal",
       "symbol": "↻",
       "relevance": 84,
-      "date": "25.11.2026",
-      "description": "Noch nie wurde mehr Solarstrom in Deutschland erzeugt als in diesem Jahr.",
+      "date": "26.11.2026",
+      "description": "Fuchstal trennt sich für einen Versuch vom öffentlichen Stromnetz.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Solarstrom-knackt-erstmals-die-Marke-von-100-Terawattstunden-11537125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Ein-Ort-in-Oberbayern-uebt-den-Blackout-11538483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-75126288f1",
+      "id": "auto-f9d7740a29",
       "category": "Business",
-      "title": "TeamViewer: Sorge vor Präsenzpflicht nach Kündigung von Vereinbarung",
-      "symbol": "↗",
-      "relevance": 87,
-      "date": "24.11.2026",
-      "description": "TeamViewer kündigt die Betriebsvereinbarung zu mobiler Arbeit.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "Jetzt",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/TeamViewer-kuendigt-Homeoffice-Regelung-Beschaeftigte-fuerchten-Praesenzpflicht-11536222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-d0d5c9e2c0",
-      "category": "Business",
-      "title": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
+      "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
       "symbol": "↗",
       "relevance": 86,
       "date": "25.11.2026",
-      "description": "Die Aussichten für die Wirtschaft haben sich zuletzt verbessert.",
+      "description": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "tagesschau.de",
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html"
+      "sourceUrl": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html"
     },
     {
-      "id": "auto-f5c8878a6b",
+      "id": "auto-b443eb12b5",
+      "category": "Business",
+      "title": "Reallöhne im 3. Quartal 2026 um 1,3 % höher als im Vorjahresquartal",
+      "symbol": "↗",
+      "relevance": 85,
+      "date": "26.11.2026",
+      "description": "Die Reallöhne der Arbeitnehmerinnen und Arbeitnehmer in Deutschland waren im 3.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von Statistisches Bundesamt abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "Statistisches Bundesamt",
+      "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_411_62321.html"
+    },
+    {
+      "id": "auto-2d6e3f1a47",
       "category": "Technologie",
-      "title": "BMW OS 8.5, 9 und X: BMW kündigt Softwareupdate mit 24 Funktionen an",
+      "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
       "symbol": "◇",
       "relevance": 84,
-      "date": "25.11.2026",
-      "description": "BMW hat ein neues Softwareupdate angekündigt, das im Dezember für BMW Operating System 8.5, 9 und X verteilt werden soll.",
+      "date": "26.11.2026",
+      "description": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "1–3 Jahre",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/BMW-OS-8-5-9-und-X-BMW-kuendigt-Softwareupdate-mit-24-Funktionen-an-11537886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     },
     {
-      "id": "auto-8f6dc75131",
-      "category": "Technologie",
-      "title": "Broadcom stopft viele Sicherheitslücken in mehreren VMware-Produkten",
-      "symbol": "◇",
-      "relevance": 84,
-      "date": "25.11.2026",
-      "description": "In mehreren VMware-Produkten klaffen Sicherheitslücken.",
-      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
-      "stage": "Wachstum",
-      "horizon": "1–3 Jahre",
-      "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/Broadcom-stopft-viele-Sicherheitsluecken-in-mehreren-VMware-Produkten-11537743.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-      "id": "auto-991312d305",
+      "id": "auto-e61dff68ee",
       "category": "KI",
-      "title": "KI ermittelt in 22 Minuten den unbekannten Zeichner eines Skizzenbuchs von 1808",
+      "title": "heise+ | H2O-3: Open-Source-Plattform für maschinelles Lernen mit Java-Unterstützung",
       "symbol": "✦",
       "relevance": 84,
-      "date": "25.11.2026",
-      "description": "Ein Historiker hat GPT-6.2 Astra nach dem unbekannten Autor eines über 200 Jahre alten Skizzenbuchs fahnden lassen – und nach Minuten die Antwort bekommen.",
+      "date": "26.11.2026",
+      "description": "H2O-3 ist eine Open-Source-Plattform für verteiltes und skalierbares maschinelles Lernen.",
       "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
       "stage": "Wachstum",
       "horizon": "Jetzt",
       "source": "heise online",
-      "sourceUrl": "https://www.heise.de/news/KI-ermittelt-in-22-Minuten-den-unbekannten-Zeichner-eines-Skizzenbuchs-von-1808-11537049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      "sourceUrl": "https://www.heise.de/hintergrund/H2O-3-Open-Source-Plattform-fuer-maschinelles-Lernen-mit-Java-Unterstuetzung-11534444.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    },
+    {
+      "id": "auto-1339558db6",
+      "category": "KI",
+      "title": "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+      "symbol": "✦",
+      "relevance": 84,
+      "date": "26.11.2026",
+      "description": "Mit lokal ausführbaren KI-Modellen und neuen Infrastrukturpartnern erweitert Cloudera die Anwendungsbreite seiner KI- und Datenplattform.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "Jetzt",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/news/Cloudera-Mehr-infrastrukturelle-Unabhaengigkeit-fuer-Daten-und-KI-11538779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-730138165b",
+      "category": "Technologie",
+      "title": "Kommentar zum digitalen Führerschein: Eine vertane Chance",
+      "symbol": "◇",
+      "relevance": 84,
+      "date": "26.11.2026",
+      "description": "Der digitale Führerschein soll zuerst in der i-Kfz-App erscheinen, danach in d-you.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von heise online abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "heise online",
+      "sourceUrl": "https://www.heise.de/meinung/Kommentar-zum-digitalen-Fuehrerschein-Eine-vertane-Chance-11538617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+      "id": "auto-7ae9edd48c",
+      "category": "Nachhaltigkeit",
+      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
+      "symbol": "↻",
+      "relevance": 83,
+      "date": "26.11.2026",
+      "description": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert.",
+      "insight": "Dieses Signal wird automatisch aus einer aktuellen Veröffentlichung von tagesschau.de abgeleitet. Der Relevanzwert berücksichtigt Aktualität, Quellengewicht und thematische Signalstärke.",
+      "stage": "Wachstum",
+      "horizon": "1–3 Jahre",
+      "source": "tagesschau.de",
+      "sourceUrl": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html"
     }
   ]
 }
